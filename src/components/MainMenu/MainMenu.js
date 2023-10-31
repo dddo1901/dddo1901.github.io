@@ -47,8 +47,9 @@ function MainMenu() {
                       </NavDropdown.Item>
                     ))}
                   </NavDropdown>
+              <Nav.Link href="/compare" className='mainmenu-item'>COMPARE</Nav.Link>
               <Nav.Link href="/contact" className='mainmenu-item'>CONTACT US</Nav.Link>
-              <Nav.Link href="/about_us" className='mainmenu-item'>ABOUT US</Nav.Link>
+              <Nav.Link href="/about_us" className='mainmenu-item'>ABOUT US</Nav.Link>           
             </Nav>
           </Navbar.Collapse>
         </Container>
