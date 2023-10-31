@@ -1,8 +1,14 @@
-import React from 'react'
+import React from 'react';
+import NewArrivals from '../NewArrivals/NewArrivals';
+import TopSelling from '../TopSelling/TopSelling';
+
 
 function Homepage() {
   return (
-    <div>Homepage</div>
+    <div>
+      <NewArrivals/>
+      <TopSelling/>
+    </div>
   )
 }
 

@@ -3,8 +3,14 @@ import MainMenu from './components/MainMenu/MainMenu';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Slideshow from './components/Slideshow/Slideshow';
-import NewArrivals from './components/NewArrivals/NewArrivals';
-import TopSelling from './components/TopSelling/TopSelling';
+import { Route, Routes } from 'react-router-dom';
+import Homepage from './components/Homepage/Homepage';
+import Products from './components/Products/Products';
+import Categories from './components/Categories/Categories';
+import Brands from './components/Brands/Brands';
+import AboutUs from './components/AboutUs/AboutUs';
+import ContactUs from './components/Contact/Contact';
+
 
 
 function App() {
@@ -13,8 +19,14 @@ function App() {
       <Header />
       <MainMenu />
       <Slideshow/>
-      <NewArrivals />
-      <TopSelling />
+      <Routes>
+        <Route path='/' element={<Homepage/>} />
+        <Route path='/products' element={<Products/>} />
+        <Route path='/categories' element={<Categories/>} />
+        <Route path='/brands' element={<Brands/>} />
+        <Route path='/contact' element={<ContactUs/>} />
+        <Route path='/about_us' element={<AboutUs/>} />
+      </Routes>
       <Footer />
     </div>
   );
