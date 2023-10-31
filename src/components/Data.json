@@ -158,5 +158,28 @@
             "Style" : "T-Shirt"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 8,
+        "price": 59.99,
+        "name": "Slim-fit chambray cotton shirt",
+        "img1": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp",
+        "img2": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_B.webp",
+        "img3": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO-99999999_01.webp",
+        "img4": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D2.webp",
+        "img5": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D8.webp",
+        "img6": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_R.webp",
+        "Top": 1,
+        "New": 2,
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
 ]
