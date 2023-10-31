@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Cotton short-sleeved printed shirt",
+        "img1": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_B.webp",
+        "img2": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_D2.webp",
+        "img3": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_D8.webp",
+        "img4": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_R.webp",
+        "img5": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52-99999999_01.webp",
+        "img6": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52.webp",
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "Shirt"
+        },
+        "Description" : "Cotton and linen mix. Regular fit. Leaf print. Shirt-style collar. Front button closure. Short sleeve. Rounded hem. The model is 190 cm tall and is wearing a size M."
+    },
+
+    {
+        "id": 2,
+        "name": "100% linen Henley t-shirt",
+        "img1": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_B.webp",
+        "img2": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D1.webp",
+        "img3": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D2.webp",
+        "img4": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D8.webp",
+        "img5": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_R.webp",
+        "img6": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69.webp",
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    }
+]
