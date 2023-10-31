@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Brands from '../Brands/Brands.json';
 import Categories from '../Categories/Categories.json';
-import './Mainmenu.scss';
+import './MainMenu.scss';
 
 
 function MainMenu() {
