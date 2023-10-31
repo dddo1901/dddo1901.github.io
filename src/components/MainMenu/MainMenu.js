@@ -6,8 +6,6 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import Brands from '../Brands/Brands.json';
 import Categories from '../Categories/Categories.json';
 import './Mainmenu.scss';
-import Categories from '../Categories/Categories';
-import Brands from '../Brands/Brands';
 
 
 function MainMenu() {

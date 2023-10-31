@@ -3,7 +3,7 @@ import MainMenu from './components/MainMenu/MainMenu';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import Slideshow from './components/Slideshow/Slideshow';
-import { Route, Router } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Homepage from './components/Homepage/Homepage';
 import Products from './components/Products/Products';
 import Categories from './components/Categories/Categories';
@@ -19,14 +19,14 @@ function App() {
       <Header />
       <MainMenu />
       <Slideshow/>
-      <Router>
+      <Routes>
         <Route path='/' element={<Homepage/>} />
         <Route path='/products' element={<Products/>} />
         <Route path='/categories' element={<Categories/>} />
         <Route path='/brands' element={<Brands/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/about_us' element={<AboutUs/>} />
-      </Router>
+      </Routes>
       <Footer />
     </div>
   );
