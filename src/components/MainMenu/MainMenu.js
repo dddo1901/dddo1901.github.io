@@ -3,11 +3,11 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import Brand from '../Brands/Brand.json';
-import Category from '../Categories/Category.json';
-import Men from '../Men/Men.json';
-import Women from '../Women/Women.json';
+import Brands from '../Brands/Brands.json';
+import Categories from '../Categories/Categories.json';
 import './Mainmenu.scss';
+import Categories from '../Categories/Categories';
+import Brands from '../Brands/Brands';
 
 
 function MainMenu() {
@@ -19,16 +19,16 @@ function MainMenu() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
 
-              <Nav.Link href="#home" className='mainmenu-item'>HOMEPAGE</Nav.Link>
-              <Nav.Link href="#link" className='mainmenu-item'>PRODUCTS</Nav.Link>
+              <Nav.Link href="/" className='mainmenu-item'>HOMEPAGE</Nav.Link>
+              <Nav.Link href="/products" className='mainmenu-item'>PRODUCTS</Nav.Link>
 
               <NavDropdown
                     title="CATEGORIES"
                     id="basic-nav-dropdown"
                     className="mainmenu-item"
                   >
-                    {Category.map((item, index) => (
-                      <NavDropdown.Item href={`/Category/${item.Id}`} key={index}>
+                    {Categories.map((item, index) => (
+                      <NavDropdown.Item href={`/Categories/${item.Id}`} key={index}>
                         {item.name}
                       </NavDropdown.Item>
                     ))}
@@ -39,9 +39,9 @@ function MainMenu() {
                     id="navbarScrollingDropdown"
                     className="mainmenu-item"
                   >
-                    {Brand.map((items, index) => (
+                    {Brands.map((items, index) => (
                       <NavDropdown.Item
-                        href={`/brand/${items.id}`}
+                        href={`/brands/${items.id}`}
                         key={index}
                         bsPrefix="dropdown-item"
                       >
@@ -49,11 +49,8 @@ function MainMenu() {
                       </NavDropdown.Item>
                     ))}
                   </NavDropdown>
-
-                
-              <Nav.Link href="#link" className='mainmenu-item'>HELP CENTER</Nav.Link>
-              <Nav.Link href="#link" className='mainmenu-item'>CONTACT US</Nav.Link>
-              <Nav.Link href="#link" className='mainmenu-item'>ABOUT US</Nav.Link>
+              <Nav.Link href="/contact" className='mainmenu-item'>CONTACT US</Nav.Link>
+              <Nav.Link href="/about_us" className='mainmenu-item'>ABOUT US</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
