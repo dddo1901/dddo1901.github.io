@@ -18,8 +18,6 @@ function MainMenu() {
             <Nav className="me-auto">
 
               <Nav.Link href="/" className='mainmenu-item'>HOMEPAGE</Nav.Link>
-              <Nav.Link href="/products" className='mainmenu-item'>PRODUCTS</Nav.Link>
-
               <NavDropdown
                     title="CATEGORIES"
                     id="basic-nav-dropdown"

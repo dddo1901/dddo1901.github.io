@@ -14,7 +14,13 @@ function TopSelling() {
       </Row>
 
       <Row>
-        {Products.map((items, index) => (
+        {Products.filter((items) => {
+          if (items.Top === 1) {
+            return items;
+          } else {
+            return null;
+          }
+        }).map((items, index) => (
           <Col xs={12} sm={6} md={6} lg={3} key={index}>
             <Card className='card-newarrivals'>
               

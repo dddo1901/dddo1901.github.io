@@ -9,6 +9,8 @@
         "img4": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp",
         "img5": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp",
         "img6": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp",
+        "Top": 1,
+        "New": 1,
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
@@ -30,10 +32,12 @@
         "img4": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D8.webp",
         "img5": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_R.webp",
         "img6": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_B.webp",
+        "Top": 2,
+        "New": 1,
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
-                "Id" : 2,
+                "Id" : 1,
                 "Name" : "Top" 
                     },
             "Style" : "T-Shirt"
@@ -45,16 +49,110 @@
         "id": 3,
         "price": 59.99,
         "name": "Adriana Eskenazi x Mango t-shirt",
-        "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp",
-        "img2": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_A.webp",
+        "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15.webp",
+        "img2": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp",
         "img3": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D1.webp",
         "img4": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D2.webp",
         "img5": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D8.webp",
         "img6": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_R.webp",
+        "Top": 2,
+        "New": 1,
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
-                "Id" : 3,
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 4,
+        "price": 59.99,
+        "name": "Basic mercerised lightweight shir",
+        "img1": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08.webp",
+        "img2": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_B.webp",
+        "img3": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D6.webp",
+        "img4": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D2.webp",
+        "img5": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D8.webp",
+        "img6": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_R.webp",
+        "Top": 1,
+        "New": 1,
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 5,
+        "price": 59.99,
+        "name": "Perkins neck long-sleeved t-shirt",
+        "img1": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05.webp",
+        "img2": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_B.webp",
+        "img3": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D1.webp",
+        "img4": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D2.webp",
+        "img5": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D8.webp",
+        "img6": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_R.webp",
+        "Top": 2,
+        "New": 1,
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 6,
+        "price": 59.99,
+        "name": "Regular fit floral print shirt",
+        "img1": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46.webp",
+        "img2": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_B.webp",
+        "img3": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46-99999999_01.webp",
+        "img4": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D2.webp",
+        "img5": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D8.webp",
+        "img6": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_R.webp",
+        "Top": 1,
+        "New": 2,
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 7,
+        "price": 59.99,
+        "name": "Regular-fit Mao-collar linen shirt",
+        "img1": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50.webp",
+        "img2": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_B.webp",
+        "img3": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50-99999999_01.webp",
+        "img4": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D2.webp",
+        "img5": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D8.webp",
+        "img6": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_R.webp",
+        "Top": 1,
+        "New": 1,
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 1,
                 "Name" : "Top" 
                     },
             "Style" : "T-Shirt"
