@@ -8,8 +8,8 @@ import Homepage from './components/Homepage/Homepage';
 import Products from './components/Products/Products';
 import Categories from './components/Categories/Categories';
 import Brands from './components/Brands/Brands';
-import Contact from './components/Contact/Contact';
 import AboutUs from './components/AboutUs/AboutUs';
+import ContactUs from './components/Contact/Contact';
 
 
 
@@ -24,7 +24,7 @@ function App() {
         <Route path='/products' element={<Products/>} />
         <Route path='/categories' element={<Categories/>} />
         <Route path='/brands' element={<Brands/>} />
-        <Route path='/contact' element={<Contact/>} />
+        <Route path='/contact' element={<ContactUs/>} />
         <Route path='/about_us' element={<AboutUs/>} />
       </Routes>
       <Footer />
