@@ -1,13 +1,14 @@
 [
     {
         "id": 1,
+        "price": 59.99,
         "name": "Cotton short-sleeved printed shirt",
-        "img1": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_B.webp",
-        "img2": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_D2.webp",
-        "img3": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_D8.webp",
-        "img4": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52_R.webp",
-        "img5": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52-99999999_01.webp",
-        "img6": "/images/Mango/Top/men/100% cotton short-sleeved printed shirt/57015791_52.webp",
+        "img1": "/images/57015791_52.webp",
+        "img2": "/images/57015791_52_D2.webp",
+        "img3": "/images/57015791_52_D8.webp",
+        "img4": "/images/57015791_52_R.png",
+        "img5": "/images/57015791_52-99999999_01.png",
+        "img6": "/images/57015791_52.webp",
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
@@ -21,8 +22,9 @@
 
     {
         "id": 2,
+        "price": 59.99,
         "name": "100% linen Henley t-shirt",
-        "img1": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_B.webp",
+        "img1": "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57040681_99_B.jpg?ts=1697542870812&imwidth=332&imdensity=2",
         "img2": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D1.webp",
         "img3": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D2.webp",
         "img4": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D8.webp",
