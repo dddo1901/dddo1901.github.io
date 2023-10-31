@@ -3,12 +3,12 @@
         "id": 1,
         "price": 59.99,
         "name": "Cotton short-sleeved printed shirt",
-        "img1": "/images/57015791_52.webp",
-        "img2": "/images/57015791_52_D2.webp",
-        "img3": "/images/57015791_52_D8.webp",
-        "img4": "/images/57015791_52_R.png",
-        "img5": "/images/57015791_52-99999999_01.png",
-        "img6": "/images/57015791_52.webp",
+        "img1": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp",
+        "img2": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp",
+        "img3": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp",
+        "img4": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp",
+        "img5": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp",
+        "img6": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp",
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
@@ -23,17 +23,38 @@
     {
         "id": 2,
         "price": 59.99,
-        "name": "100% linen Henley t-shirt",
-        "img1": "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57040681_99_B.jpg?ts=1697542870812&imwidth=332&imdensity=2",
-        "img2": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D1.webp",
-        "img3": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D2.webp",
-        "img4": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D8.webp",
-        "img5": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_R.webp",
-        "img6": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69.webp",
+        "name": "Linen Henley t-shirt",
+        "img1": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_A.webp",
+        "img2": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D1.webp",
+        "img3": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D2.webp",
+        "img4": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D8.webp",
+        "img5": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_R.webp",
+        "img6": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_B.webp",
         "Spec" : {
             "Brand" : "Mango",
             "Efd" : {
-                "Id" : 1,
+                "Id" : 2,
+                "Name" : "Top" 
+                    },
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 3,
+        "price": 59.99,
+        "name": "Adriana Eskenazi x Mango t-shirt",
+        "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp",
+        "img2": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_A.webp",
+        "img3": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D1.webp",
+        "img4": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D2.webp",
+        "img5": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D8.webp",
+        "img6": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_R.webp",
+        "Spec" : {
+            "Brand" : "Mango",
+            "Efd" : {
+                "Id" : 3,
                 "Name" : "Top" 
                     },
             "Style" : "T-Shirt"

@@ -26,7 +26,7 @@ function MainMenu() {
                     className="mainmenu-item"
                   >
                     {Categories.map((item, index) => (
-                      <NavDropdown.Item href={`/Categories/${item.Id}`} key={index}>
+                      <NavDropdown.Item href={`/Categories/${item.id}`} key={index}>
                         {item.name}
                       </NavDropdown.Item>
                     ))}
