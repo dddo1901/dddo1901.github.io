@@ -50,38 +50,7 @@ function MainMenu() {
                     ))}
                   </NavDropdown>
 
-                  <NavDropdown
-                    title="MEN"
-                    id="navbarScrollingDropdown"
-                    className="mainmenu-item"
-                  >
-                    {Men.map((items, index) => (
-                      <NavDropdown.Item
-                        href={`/men/${items.id}`}
-                        key={index}
-                        bsPrefix="dropdown-item"
-                      >
-                        {items.name}
-                      </NavDropdown.Item>
-                    ))}
-                  </NavDropdown>
-
-                  <NavDropdown
-                    title="WOMEN"
-                    id="navbarScrollingDropdown"
-                    className="mainmenu-item"
-                  >
-                    {Women.map((items, index) => (
-                      <NavDropdown.Item
-                        href={`/women/${items.id}`}
-                        key={index}
-                        bsPrefix="dropdown-item"
-                      >
-                        {items.name}
-                      </NavDropdown.Item>
-                    ))}
-                  </NavDropdown>
-
+                
               <Nav.Link href="#link" className='mainmenu-item'>HELP CENTER</Nav.Link>
               <Nav.Link href="#link" className='mainmenu-item'>CONTACT US</Nav.Link>
               <Nav.Link href="#link" className='mainmenu-item'>ABOUT US</Nav.Link>
