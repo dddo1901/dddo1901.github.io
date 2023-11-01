@@ -334,7 +334,7 @@
     },
 
     {
-        "id": 13,
+        "id": 14,
         "price": 59.99,
         "name": "Semi-transparent lace shirt",
         "img1": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05.jpg",
@@ -358,7 +358,7 @@
     },
 
     {
-        "id": 14,
+        "id": 15,
         "price": 59.99,
         "name": "Sleeveless wrap blouse",
         "img1": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05.webp",
@@ -382,7 +382,7 @@
     },
 
     {
-        "id": 15,
+        "id": 16,
         "price": 59.99,
         "name": "Spaghetti strap top",
         "img1": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D1.webp",
@@ -406,7 +406,7 @@
     },
 
     {
-        "id": 16,
+        "id": 17,
         "price": 59.99,
         "name": "Striped print T-shirt",
         "img1": "/images/Mango/Top/women/Striped print T-shirt/57010481_20.webp",
@@ -430,7 +430,7 @@
     },
 
     {
-        "id": 17,
+        "id": 18,
         "price": 59.99,
         "name": "Tie-neck blouse",
         "img1": "/images/Mango/Top/women/Tie-neck blouse/57065982_01.webp",
@@ -454,7 +454,7 @@
     },
 
     {
-        "id": 18,
+        "id": 19,
         "price": 59.99,
         "name": "Wrap shirt with knot detail",
         "img1": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02.jpg",
@@ -478,7 +478,7 @@
     },
 
     {
-        "id": 19,
+        "id": 20,
         "price": 59.99,
         "name": "Bob straight-fit jeans",
         "img1": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05-99999999_01.webp",
@@ -502,7 +502,7 @@
     },
 
     {
-        "id": 20,
+        "id": 21,
         "price": 59.99,
         "name": "Dark-wash tapered-fit jeans",
         "img1": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO-99999999_01.webp",
@@ -526,7 +526,7 @@
     },
 
     {
-        "id": 21,
+        "id": 22,
         "price": 59.99,
         "name": "Jan slim-fit jeans",
         "img1": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB-99999999_01.webp",
@@ -550,7 +550,7 @@
     },
 
     {
-        "id": 22,
+        "id": 23,
         "price": 59.99,
         "name": "Pinstripe cotton slim-fit trousers",
         "img1": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96-99999999_01.webp",
@@ -574,7 +574,7 @@
     },
 
     {
-        "id": 23,
+        "id": 24,
         "price": 59.99,
         "name": "Regular-fit suit trousers with pleats",
         "img1": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08-99999999_01.webp",
@@ -598,7 +598,7 @@
     },
 
     {
-        "id": 24,
+        "id": 25,
         "price": 59.99,
         "name": "Slim fit Ultra Soft Touch Patrick jeans",
         "img1": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN-99999999_01.webp",
@@ -622,7 +622,7 @@
     },
 
     {
-        "id": 25,
+        "id": 26,
         "price": 59.99,
         "name": "Slim-fit denim bermuda shorts",
         "img1": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC-99999999_01.webp",
@@ -646,7 +646,7 @@
     },
 
     {
-        "id": 26,
+        "id": 27,
         "price": 59.99,
         "name": "Stretch fabric super slim-fit suit trousers",
         "img1": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50-99999999_01.webp",
@@ -670,7 +670,7 @@
     },
 
     {
-        "id": 27,
+        "id": 28,
         "price": 59.99,
         "name": "Super slim fit printed suit pants",
         "img1": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55-99999999_01.webp",
@@ -694,7 +694,7 @@
     },
 
     {
-        "id": 28,
+        "id": 29,
         "price": 59.99,
         "name": "Tom tapered cropped jeans",
         "img1": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB-99999999_01.webp",
@@ -718,7 +718,7 @@
     },
 
     {
-        "id": 29,
+        "id": 30,
         "price": 59.99,
         "name": "Carpenter cargo jeans",
         "img1": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68-99999999_01.webp",
@@ -742,7 +742,7 @@
     },
 
     {
-        "id": 30,
+        "id": 31,
         "price": 59.99,
         "name": "Decorative ripped wideleg jeans",
         "img1": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM-99999999_01.webp",
@@ -766,7 +766,7 @@
     },
 
     {
-        "id": 31,
+        "id": 32,
         "price": 59.99,
         "name": "Low waist wideleg jeans",
         "img1": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO-99999999_01.webp",
@@ -790,7 +790,7 @@
     },
 
     {
-        "id": 32,
+        "id": 33,
         "price": 59.99,
         "name": "Maternity Straight Jeans",
         "img1": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01-99999999_01.webp",
@@ -814,7 +814,7 @@
     },
 
     {
-        "id": 33,
+        "id": 34,
         "price": 59.99,
         "name": "Medium-rise straight jeans with slits",
         "img1": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02-99999999_01.webp",
@@ -838,7 +838,7 @@
     },
 
     {
-        "id": 34,
+        "id": 35,
         "price": 59.99,
         "name": "Mid-rise corduroy trousers",
         "img1": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95-99999999_01.webp",
@@ -862,7 +862,7 @@
     },
 
     {
-        "id": 35,
+        "id": 36,
         "price": 59.99,
         "name": "Paperbag shorts with belt",
         "img1": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09-99999999_01.webp",
@@ -886,7 +886,7 @@
     },
 
     {
-        "id": 36,
+        "id": 37,
         "price": 59.99,
         "name": "Printed denim shorts",
         "img1": "/images/Mango/bottom/women/Printed denim shorts/57002886_88-99999999_01.webp",
@@ -910,7 +910,7 @@
     },
 
     {
-        "id": 37,
+        "id": 38,
         "price": 59.99,
         "name": "Seam-detail culotte trousers",
         "img1": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77-99999999_01.webp",
@@ -934,7 +934,7 @@
     },
 
     {
-        "id": 38,
+        "id": 39,
         "price": 59.99,
         "name": "Slit hem leggings",
         "img1": "/images/Mango/bottom/women/Slit hem leggings/47000086_99-99999999_01.webp",
