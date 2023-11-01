@@ -1377,21 +1377,286 @@
         "id": 55,
         "price": 59.99,
         "name": "Men's Elastic Waist Jeans",
-        "img1": "/images/5theway/bottom/Men's Elastic Waist Jeans/DSC09182-scaled.jpg",
-        "img2": "/images/5theway/bottom/Men's Elastic Waist Jeans/DSC09959-scaled.jpg",
-        "img3": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp",
+        "img1": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09182-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09959-scaled.jpg",
         "Top": 1,
         "New": 1,
         "Brand": {
-            "id": 3,
-            "name": "5theway"
+            "id": 4,
+            "name": "5TheWay"
         },
         "Category": {
-            "id": 4,
-            "name": "Accessories"
+            "id": 2,
+            "name": "Bottom"
         },
         "Spec" : {
-            "Style" : "Wallets"
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 56,
+        "price": 59.99,
+        "name": "Men's Elastic Waist Jeans 2",
+        "img1": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09071-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09094-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09104-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 57,
+        "price": 59.99,
+        "name": "Men's Jeans Pants with Elastic Waist",
+        "img1": "/images/Fiftheway/bottom/men/Men's Jeans Pants with Elastic Waist/DSC09555-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Jeans Pants with Elastic Waist/DSC09558-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 58,
+        "price": 59.99,
+        "name": "Men's Jeans Shorts",
+        "img1": "/images/Fiftheway/bottom/men/Men's Jeans Shorts/DSC09339-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Jeans Shorts/DSC09344-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 59,
+        "price": 59.99,
+        "name": "Men's Khaki Trousers",
+        "img1": "/images/Fiftheway/bottom/men/Men's Khaki Trousers/DSC09955-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Khaki Trousers/DSC09959-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 60,
+        "price": 59.99,
+        "name": "Men's Sports Tights",
+        "img1": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08518-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08538-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08547-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 61,
+        "price": 59.99,
+        "name": "Women's Jean Shorts",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jean Shorts/DSC09737-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jean Shorts/DSC09738-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 62,
+        "price": 59.99,
+        "name": "Women's Jean Shorts 2",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jean Shorts 2/DSC09800-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jean Shorts 2/DSC09807-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 63,
+        "price": 59.99,
+        "name": "Women's Jeans",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08751-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08771-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08778-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 64,
+        "price": 59.99,
+        "name": "Women's Jeans Skirt",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jeans Skirt/DSC09383-1-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 65,
+        "price": 59.99,
+        "name": "Women's Long Flare Jeans",
+        "img1": "/images/Fiftheway/bottom/women/Women's Long Flare Jeans/DSC08269-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Long Flare Jeans/DSC08270-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 66,
+        "price": 59.99,
+        "name": "Women's Sports Tights",
+        "img1": "/images/Fiftheway/bottom/women/Women's Sports Tights/DSC08269-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Sports Tights/DSC08512-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 67,
+        "price": 59.99,
+        "name": "Men's Basic T-Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Basic T-Shirt/DSC09329-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Basic T-Shirt/DSC09344-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
