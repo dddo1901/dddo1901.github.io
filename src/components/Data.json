@@ -1656,7 +1656,341 @@
             "name": "Top"
         },
         "Spec" : {
-            "Style" : "Jeans"
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 68,
+        "price": 59.99,
+        "name": "Men's Horizontal Striped Polo Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07928-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07935-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07951-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 69,
+        "price": 59.99,
+        "name": "Men's Long Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Long Sleeve Shirt/DSC09697-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Long Sleeve Shirt/DSC09700-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 70,
+        "price": 59.99,
+        "name": "Men's Patterned Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Patterned Shirt/DSC09262-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Patterned Shirt/DSC09265-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 71,
+        "price": 59.99,
+        "name": "Men's Polo T-shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08627-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08637-Copy-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08644-Copy-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 72,
+        "price": 59.99,
+        "name": "Men's Printed Collar T-shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Printed Collar T-shirt/DSC08303-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 73,
+        "price": 59.99,
+        "name": "Men's Short Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08000-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08006-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08024-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 74,
+        "price": 59.99,
+        "name": "Men's Tank Top",
+        "img1": "/images/Fiftheway/top/men/Men's Tank Top/DSC09764-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Tank Top/DSC09771-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 75,
+        "price": 59.99,
+        "name": "Basic Women's T-shirt 4",
+        "img1": "/images/Fiftheway/top/women/Basic Women's T-shirt 4/DSC09371-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 76,
+        "price": 59.99,
+        "name": "Woman's Turtleneck Sleeveless Blouse",
+        "img1": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09575-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09583-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09597-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 77,
+        "price": 59.99,
+        "name": "Women's Basic Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Basic Shirt/DSC09659-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic Shirt/DSC09675-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 78,
+        "price": 59.99,
+        "name": "Women's Basic Shirt 2",
+        "img1": "/images/Fiftheway/top/women/Women's Basic Shirt 2/DSC08096-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic Shirt 2/DSC08111-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 79,
+        "price": 59.99,
+        "name": "Women's Basic T-Shirt 3",
+        "img1": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08040-1-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08055-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08063-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 80,
+        "price": 59.99,
+        "name": "Women's Solid Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08237-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08261-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08270-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 81,
+        "price": 59.99,
+        "name": "Women's Somi Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Somi Shirt/DSC09212-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Somi Shirt/DSC09232-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 82,
+        "price": 59.99,
+        "name": "Women's Tank Top with Collar",
+        "img1": "/images/Fiftheway/top/women/Women's Tank Top with Collar/DSC08153-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Tank Top with Collar/DSC08173-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
