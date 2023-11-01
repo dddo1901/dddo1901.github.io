@@ -179,5 +179,781 @@
             "Style" : "T-Shirt"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 8,
+        "price": 59.99,
+        "name": "Slim-fit chambray cotton shirt",
+        "img1": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D5.webp",
+        "img2": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D1.webp",
+        "img3": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D2.webp",
+        "img4": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_B.webp",
+        "img5": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_R.webp",
+        "img6": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 9,
+        "price": 59.99,
+        "name": "Textured striped T-shirt",
+        "img1": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02.webp",
+        "img2": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
+        "img3": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
+        "img4": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D8.webp",
+        "img5": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_R.webp",
+        "img6": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_B.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 10,
+        "price": 59.99,
+        "name": "Cotton boat neck t-shirt",
+        "img1": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D4.webp",
+        "img2": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_B.webp",
+        "img3": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D1.webp",
+        "img4": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D3.webp",
+        "img5": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D8.webp",
+        "img6": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 11,
+        "price": 59.99,
+        "name": "Metallic top with flower detail",
+        "img1": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D6.webp",
+        "img2": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_B.webp",
+        "img3": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D1.webp",
+        "img4": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D2.webp",
+        "img5": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 12,
+        "price": 59.99,
+        "name": "Printed short-sleeved shirt",
+        "img1": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D2.webp",
+        "img2": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_B.webp",
+        "img3": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D1.webp",
+        "img4": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D8.webp",
+        "img5": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 13,
+        "price": 59.99,
+        "name": "Ruched satin blouse",
+        "img1": "/images/Mango/Top/women/Ruched satin blouse/57017115_99.webp",
+        "img2": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D1.webp",
+        "img3": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D1.webp",
+        "img4": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D8.webp",
+        "img5": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_R.webp",
+        "img6": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_B.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 13,
+        "price": 59.99,
+        "name": "Semi-transparent lace shirt",
+        "img1": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05.jpg",
+        "img2": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_B.webp",
+        "img3": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D1.webp",
+        "img4": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D2.webp",
+        "img5": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D7.webp",
+        "img6": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 14,
+        "price": 59.99,
+        "name": "Sleeveless wrap blouse",
+        "img1": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05.webp",
+        "img2": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_D3.webp",
+        "img3": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_D8.webp",
+        "img4": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_R.webp",
+        "img5": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_B.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 15,
+        "price": 59.99,
+        "name": "Spaghetti strap top",
+        "img1": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D1.webp",
+        "img2": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_B.webp",
+        "img3": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D2.webp",
+        "img4": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D8.webp",
+        "img5": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_R.webp",
+        "img6": "/images/Mango/Top/women/Spaghetti strap top/57061167_99.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 16,
+        "price": 59.99,
+        "name": "Striped print T-shirt",
+        "img1": "/images/Mango/Top/women/Striped print T-shirt/57010481_20.webp",
+        "img2": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_B.webp",
+        "img3": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D1.webp",
+        "img4": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D2.webp",
+        "img5": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D8.webp",
+        "img6": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 17,
+        "price": 59.99,
+        "name": "Tie-neck blouse",
+        "img1": "/images/Mango/Top/women/Tie-neck blouse/57065982_01.webp",
+        "img2": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_B.webp",
+        "img3": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D1.webp",
+        "img4": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D2.webp",
+        "img5": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D8.webp",
+        "img6": "/images/Mango/Top/women/Tie-neck blouse/57065982_01-99999999_01.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 18,
+        "price": 59.99,
+        "name": "Wrap shirt with knot detail",
+        "img1": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02.jpg",
+        "img2": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_B.webp",
+        "img3": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_D1.webp",
+        "img4": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_D8.webp",
+        "img5": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_R.webp",
+        "img6": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02-99999999_01.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 19,
+        "price": 59.99,
+        "name": "Bob straight-fit jeans",
+        "img1": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_B.webp",
+        "img3": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D2.webp",
+        "img5": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D3.jpg",
+        "img6": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D4.jpg",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 20,
+        "price": 59.99,
+        "name": "Dark-wash tapered-fit jeans",
+        "img1": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_B.webp",
+        "img3": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D1.webp",
+        "img4": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D2.webp",
+        "img5": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D4.webp",
+        "img6": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D8.jpg",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 21,
+        "price": 59.99,
+        "name": "Jan slim-fit jeans",
+        "img1": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D1.jpg",
+        "img3": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D2.webp",
+        "img4": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D8.webp",
+        "img5": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_R.webp",
+        "img6": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 22,
+        "price": 59.99,
+        "name": "Pinstripe cotton slim-fit trousers",
+        "img1": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_B.webp",
+        "img3": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D2.jpg",
+        "img5": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D3.webp",
+        "img6": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 23,
+        "price": 59.99,
+        "name": "Regular-fit suit trousers with pleats",
+        "img1": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_B.webp",
+        "img3": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D2.webp",
+        "img5": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D5.jpg",
+        "img6": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D6.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 24,
+        "price": 59.99,
+        "name": "Slim fit Ultra Soft Touch Patrick jeans",
+        "img1": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_B.webp",
+        "img3": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D1.webp",
+        "img4": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D2.webp",
+        "img5": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D6.webp",
+        "img6": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 25,
+        "price": 59.99,
+        "name": "Slim-fit denim bermuda shorts",
+        "img1": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D1.jpg",
+        "img3": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D2.jpg",
+        "img4": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D4.jpg",
+        "img5": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D8.jpg",
+        "img6": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_R.jpg",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 26,
+        "price": 59.99,
+        "name": "Stretch fabric super slim-fit suit trousers",
+        "img1": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_B.webp",
+        "img3": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D2.jpg",
+        "img5": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D6.webp",
+        "img6": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 27,
+        "price": 59.99,
+        "name": "Super slim fit printed suit pants",
+        "img1": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_B.webp",
+        "img3": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D2.webp",
+        "img5": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D8.webp",
+        "img6": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 28,
+        "price": 59.99,
+        "name": "Tom tapered cropped jeans",
+        "img1": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_B.webp",
+        "img3": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D1.webp",
+        "img4": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D2.webp",
+        "img5": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D4.webp",
+        "img6": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 29,
+        "price": 59.99,
+        "name": "Carpenter cargo jeans",
+        "img1": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_B.webp",
+        "img3": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D1.webp",
+        "img4": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D2.webp",
+        "img5": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D8.webp",
+        "img6": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 30,
+        "price": 59.99,
+        "name": "Decorative ripped wideleg jeans",
+        "img1": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_B.webp",
+        "img3": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D1.webp",
+        "img4": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D2.webp",
+        "img5": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D6.webp",
+        "img6": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 31,
+        "price": 59.99,
+        "name": "Low waist wideleg jeans",
+        "img1": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_B.webp",
+        "img3": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D1.webp",
+        "img4": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D2.webp",
+        "img5": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D6.webp",
+        "img6": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 32,
+        "price": 59.99,
+        "name": "Maternity Straight Jeans",
+        "img1": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_B.webp",
+        "img3": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D1.webp",
+        "img4": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D2.webp",
+        "img5": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D8.webp",
+        "img6": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 33,
+        "price": 59.99,
+        "name": "Medium-rise straight jeans with slits",
+        "img1": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_B.webp",
+        "img3": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D1.webp",
+        "img4": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D6.webp",
+        "img5": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D8.webp",
+        "img6": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 34,
+        "price": 59.99,
+        "name": "Mid-rise corduroy trousers",
+        "img1": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_B.webp",
+        "img3": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D1.webp",
+        "img4": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D2.webp",
+        "img5": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D6.webp",
+        "img6": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D8.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 35,
+        "price": 59.99,
+        "name": "Paperbag shorts with belt",
+        "img1": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_B.webp",
+        "img3": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D1.webp",
+        "img4": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D6.webp",
+        "img5": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D8.webp",
+        "img6": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_R.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 36,
+        "price": 59.99,
+        "name": "Printed denim shorts",
+        "img1": "/images/Mango/bottom/women/Printed denim shorts/57002886_88-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_B.webp",
+        "img3": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_D6.webp",
+        "img4": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_D8.webp",
+        "img5": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_R.webp",
+        "img6": "/images/Mango/bottom/women/Printed denim shorts/57002886_88.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 37,
+        "price": 59.99,
+        "name": "Seam-detail culotte trousers",
+        "img1": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_B.webp",
+        "img3": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_D1.webp",
+        "img4": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_D8.webp",
+        "img5": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_R.webp",
+        "img6": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 38,
+        "price": 59.99,
+        "name": "Slit hem leggings",
+        "img1": "/images/Mango/bottom/women/Slit hem leggings/47000086_99-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_B.webp",
+        "img3": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_D1.webp",
+        "img4": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_D8.webp",
+        "img5": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_R.webp",
+        "img6": "/images/Mango/bottom/women/Slit hem leggings/47000086_99.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
 ]
