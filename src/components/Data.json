@@ -958,7 +958,7 @@
     },
 
     {
-        "id": 39,
+        "id": 40,
         "price": 59.99,
         "name": "Backpack with leather-effect details",
         "img1": "/images/Mango/bags/Backpack with leather-effect details/57084409_99.webp",
@@ -982,7 +982,7 @@
     },
 
     {
-        "id": 40,
+        "id": 41,
         "price": 59.99,
         "name": "Leather effect zippered shoulder bag",
         "img1": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99.webp",
@@ -1003,37 +1003,13 @@
     },
 
     {
-        "id": 41,
+        "id": 42,
         "price": 59.99,
         "name": "Leather-effect backpack",
         "img1": "/images/Mango/bags/Leather-effect backpack/57040823_99.webp",
         "img2": "/images/Mango/bags/Leather-effect backpack/57040823_99_D1.webp",
         "img3": "/images/Mango/bags/Leather-effect backpack/57040823_99_D2.webp",
         
-        "Brand": {
-            "id": 3,
-            "name": "Mango"
-        },
-        "Category": {
-            "id": 3,
-            "name": "Bags"
-        },
-        "Spec" : {
-            "Style" : "Bags"
-        },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
-    },
-
-    {
-        "id": 42,
-        "price": 59.99,
-        "name": "Leather-effect travel bowling bag",
-        "img1": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30.webp",
-        "img2": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_B.webp",
-        "img3": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D1.webp",
-        "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
-        "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
-        "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1071,8 +1047,32 @@
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
+
     {
         "id": 44,
+        "price": 59.99,
+        "name": "Leather-effect travel bowling bag",
+        "img1": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30.webp",
+        "img2": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_B.webp",
+        "img3": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D1.webp",
+        "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
+        "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
+        "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+    {
+        "id": 45,
         "price": 59.99,
         "name": "Natural fibre sack bag",
         "img1": "/images/Mango/bags/Natural fibre sack bag/47015918_09_B.webp",
@@ -1096,7 +1096,7 @@
     },
 
     {
-        "id": 45,
+        "id": 46,
         "price": 59.99,
         "name": "Saffiano-effect small shopper bag",
         "img1": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50.webp",
@@ -1119,7 +1119,7 @@
     },
 
     {
-        "id": 46,
+        "id": 47,
         "price": 59.99,
         "name": "Shoulder bag with bow detail",
         "img1": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11.webp",
@@ -1141,7 +1141,7 @@
     },
 
     {
-        "id": 47,
+        "id": 48,
         "price": 59.99,
         "name": "Shoulder bag with printed logo",
         "img1": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30.webp",
@@ -1163,7 +1163,7 @@
     },
 
     {
-        "id": 48,
+        "id": 49,
         "price": 59.99,
         "name": "Anti-contactless leather-effect card holder",
         "img1": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99.webp",
@@ -1184,7 +1184,7 @@
     },
 
     {
-        "id": 49,
+        "id": 50,
         "price": 59.99,
         "name": "Anti-contactless wallet",
         "img1": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_B.webp",
@@ -1205,7 +1205,7 @@
     },
 
     {
-        "id": 49,
+        "id": 51,
         "price": 59.99,
         "name": "Crocodile wallet with logo",
         "img1": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99.webp",
@@ -1226,7 +1226,7 @@
     },
 
     {
-        "id": 49,
+        "id": 52,
         "price": 59.99,
         "name": "Padded case",
         "img1": "/images/Mango/accessories/Padded case/57085807_85.webp",
@@ -1247,7 +1247,7 @@
     },
 
     {
-        "id": 50,
+        "id": 53,
         "price": 59.99,
         "name": "Textured card holder with embossed logo",
         "img1": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02.jpg",
@@ -1268,7 +1268,7 @@
     },
 
     {
-        "id": 51,
+        "id": 54,
         "price": 59.99,
         "name": "Wallet with printed logo",
         "img1": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_B.webp",
