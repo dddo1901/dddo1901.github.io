@@ -243,8 +243,8 @@
         "img4": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D3.webp",
         "img5": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D8.webp",
         "img6": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56.webp",
-        "Top": 1,
-        "New": 1,
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -269,8 +269,8 @@
         "img4": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D2.webp",
         "img5": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05-99999999_01.webp",
         "img6": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05.webp",
-        "Top": 1,
-        "New": 1,
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -295,6 +295,8 @@
         "img4": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D8.webp",
         "img5": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52-99999999_01.webp",
         "img6": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -319,6 +321,8 @@
         "img4": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D8.webp",
         "img5": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_R.webp",
         "img6": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_B.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -343,6 +347,8 @@
         "img4": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D2.webp",
         "img5": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D7.webp",
         "img6": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -367,6 +373,8 @@
         "img4": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_R.webp",
         "img5": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05-99999999_01.webp",
         "img6": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_B.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -391,6 +399,8 @@
         "img4": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D8.webp",
         "img5": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_R.webp",
         "img6": "/images/Mango/Top/women/Spaghetti strap top/57061167_99.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -415,6 +425,8 @@
         "img4": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D2.webp",
         "img5": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D8.webp",
         "img6": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -439,6 +451,8 @@
         "img4": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D2.webp",
         "img5": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D8.webp",
         "img6": "/images/Mango/Top/women/Tie-neck blouse/57065982_01-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -463,6 +477,8 @@
         "img4": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_D8.webp",
         "img5": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_R.webp",
         "img6": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -487,6 +503,8 @@
         "img4": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D2.webp",
         "img5": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D3.jpg",
         "img6": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D4.jpg",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -511,6 +529,8 @@
         "img4": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D2.webp",
         "img5": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D4.webp",
         "img6": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D8.jpg",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -535,6 +555,8 @@
         "img4": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D8.webp",
         "img5": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_R.webp",
         "img6": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -559,6 +581,8 @@
         "img4": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D2.jpg",
         "img5": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D3.webp",
         "img6": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -583,6 +607,8 @@
         "img4": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D2.webp",
         "img5": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D5.jpg",
         "img6": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D6.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -607,6 +633,8 @@
         "img4": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D2.webp",
         "img5": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D6.webp",
         "img6": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -631,6 +659,8 @@
         "img4": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D4.jpg",
         "img5": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D8.jpg",
         "img6": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_R.jpg",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -655,6 +685,8 @@
         "img4": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D2.jpg",
         "img5": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D6.webp",
         "img6": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -679,6 +711,8 @@
         "img4": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D2.webp",
         "img5": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D8.webp",
         "img6": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -703,6 +737,8 @@
         "img4": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D2.webp",
         "img5": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D4.webp",
         "img6": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -727,6 +763,8 @@
         "img4": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D2.webp",
         "img5": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D8.webp",
         "img6": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -751,6 +789,8 @@
         "img4": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D2.webp",
         "img5": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D6.webp",
         "img6": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -775,6 +815,8 @@
         "img4": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D2.webp",
         "img5": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D6.webp",
         "img6": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -799,6 +841,8 @@
         "img4": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D2.webp",
         "img5": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D8.webp",
         "img6": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -823,6 +867,8 @@
         "img4": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D6.webp",
         "img5": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D8.webp",
         "img6": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -847,6 +893,8 @@
         "img4": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D2.webp",
         "img5": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D6.webp",
         "img6": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D8.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -871,6 +919,8 @@
         "img4": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D6.webp",
         "img5": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D8.webp",
         "img6": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_R.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -895,6 +945,8 @@
         "img4": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_D8.webp",
         "img5": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_R.webp",
         "img6": "/images/Mango/bottom/women/Printed denim shorts/57002886_88.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -919,6 +971,8 @@
         "img4": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_D8.webp",
         "img5": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_R.webp",
         "img6": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -943,6 +997,8 @@
         "img4": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_D8.webp",
         "img5": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_R.webp",
         "img6": "/images/Mango/bottom/women/Slit hem leggings/47000086_99.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -967,6 +1023,8 @@
         "img4": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_D2.webp",
         "img5": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_D9.webp",
         "img6": "/images/Mango/bags/Backpack with leather-effect details/57084409_99-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -988,6 +1046,8 @@
         "img1": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99.webp",
         "img2": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99_B.webp",
         "img3": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99_D1.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1009,7 +1069,8 @@
         "img1": "/images/Mango/bags/Leather-effect backpack/57040823_99.webp",
         "img2": "/images/Mango/bags/Leather-effect backpack/57040823_99_D1.webp",
         "img3": "/images/Mango/bags/Leather-effect backpack/57040823_99_D2.webp",
-        
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1034,6 +1095,8 @@
         "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
         "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
         "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1058,6 +1121,8 @@
         "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
         "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
         "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1081,6 +1146,8 @@
         "img4": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D5.webp",
         "img5": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D9.webp",
         "img6": "/images/Mango/bags/Natural fibre sack bag/47015918_09-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1104,6 +1171,8 @@
         "img3": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D1.webp",
         "img4": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D2.webp",
         "img5": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D5.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1126,6 +1195,8 @@
         "img2": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_B.webp",
         "img3": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_D1.webp",
         "img4": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_D2.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1148,6 +1219,8 @@
         "img2": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_B.webp",
         "img3": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_D1.webp",
         "img4": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_D2.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1169,6 +1242,8 @@
         "img1": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99.webp",
         "img2": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_B.webp",
         "img3": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_D1.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1190,6 +1265,8 @@
         "img1": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_B.webp",
         "img2": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D1.webp",
         "img3": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D2.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1211,6 +1288,8 @@
         "img1": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99.webp",
         "img2": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_B.webp",
         "img3": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_D1.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1232,6 +1311,8 @@
         "img1": "/images/Mango/accessories/Padded case/57085807_85.webp",
         "img2": "/images/Mango/accessories/Padded case/57085807_85_D1.webp",
         "img3": "/images/Mango/accessories/Padded case/57085807_85_B.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1253,6 +1334,8 @@
         "img1": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02.jpg",
         "img2": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_B.webp",
         "img3": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_D1.webp",
+        "Top": 2,
+        "New": 2,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -1274,6 +1357,31 @@
         "img1": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_B.webp",
         "img2": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D1.webp",
         "img3": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 55,
+        "price": 59.99,
+        "name": "Men's Elastic Waist Jeans",
+        "img1": "/images/5theway/bottom/Men's Elastic Waist Jeans/DSC09182-scaled.jpg",
+        "img2": "/images/5theway/bottom/Men's Elastic Waist Jeans/DSC09959-scaled.jpg",
+        "img3": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp",
+        "Top": 1,
+        "New": 1,
         "Brand": {
             "id": 3,
             "name": "Mango"
