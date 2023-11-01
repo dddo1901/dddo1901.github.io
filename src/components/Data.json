@@ -1993,5 +1993,128 @@
             "Style" : "Shirt"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 83,
+        "price": 59.99,
+        "name": "Canvas Cross Bag - Black - DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195621.png",
+        "img2": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img3": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img4": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img5": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 84,
+        "price": 59.99,
+        "name": "Chonky Kittens Tote Bag - DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195932.png",
+        "img2": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195924.png",
+        "img3": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195939.png",
+        "img4": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195945.png",
+        "img5": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195955.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 85,
+        "price": 59.99,
+        "name": "Pattern Leather Backpack- Cream- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194934.png",
+        "img2": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194940.png",
+        "img3": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194953.png",
+        "img4": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 195005.png",
+        "img5": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 195011.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 86,
+        "price": 59.99,
+        "name": "Signature Woman Shoulder Bag - Black- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194538.png",
+        "img2": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194550.png",
+        "img3": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194603.png",
+        "img4": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194614.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 87,
+        "price": 59.99,
+        "name": "Wreath Leaf Logo Backpack - Black- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195326.png",
+        "img2": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195336.png",
+        "img3": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png",
+        "img4": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195357.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
 ]
