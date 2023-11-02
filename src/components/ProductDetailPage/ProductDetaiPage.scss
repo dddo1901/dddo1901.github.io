@@ -42,17 +42,16 @@
 .content-bar{
     grid-column-start: 1;
     grid-column: 5/7;
-    &-cart{
-        display: flex;
-        flex-direction: row;
+    
         align-items: center;
         &-numbers{
             
-            margin-left: 30px;
+            margin-left: 1rem;
             display: flex;
             flex-direction: row;
             align-items: center;
             height: 2.2rem;
+            width: 10rem;
             border: 1px solid rgb(210, 210, 210);
             border-radius: 5px;
             h4{
@@ -73,6 +72,8 @@
         &-Add{
             margin: 1rem;
             text-align: center;
+            display: flex;
+            flex-direction: row;
             
             button{  
                 outline: none;
@@ -87,7 +88,6 @@
                 }
             }
         }
-    }
     &-color{
         display: flex;
         justify-content: flex-start ;

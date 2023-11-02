@@ -11,7 +11,7 @@ import AboutUs from './components/AboutUs/AboutUs';
 import ContactUs from './components/Contact/Contact';
 import CompareProducts from './components/CompareProducts/CompareProducts';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
-
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 
 function App() {
