@@ -3,7 +3,6 @@ import slide1 from "./imageSlideShow/BANNER1.jpg";
 import slide2 from "./imageSlideShow/BANNER2.jpg";
 import slide3 from "./imageSlideShow/BANNER3.jpg";
 import Carousel from "react-bootstrap/Carousel";
-import { Button } from "react-bootstrap";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
