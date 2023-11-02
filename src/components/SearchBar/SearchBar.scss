@@ -1,5 +1,6 @@
 .search {
-    z-index: dex;
+    z-index: 9999999;
+    float: right;
     .searchInputs {
         input {
             border: 0;
@@ -24,7 +25,7 @@
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         overflow: hidden;
         overflow-y: auto;
-        z-index: 14;
+        z-index: 99999999;
         &::-webkit-scrollbar {
             display: none;
         }
@@ -44,6 +45,7 @@
             }
         }
         .search-bar-results {
+
             display: flex;
 
             .dataItem-img {
