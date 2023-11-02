@@ -2213,6 +2213,7 @@
         "id": 83,
         "price": 59.99,
         "name": "Canvas Cross Bag - Black - DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195621.png",
         "img": [
             {
                 "path": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195621.png"
@@ -2356,13 +2357,13 @@
     {
         "id": 87,
         "price": 59.99,
-        "name": "Áo thun tay dài Dòng máu Lạc Hồng - Âu Cơ  Đen",
+        "name": "Wreath Leaf Logo Backpack - Black- DirtyCoins",
         "img": [
             {
-                "path": "/images/GrimmDC/ao tay dai/Áo thun tay dài Dòng máu Lạc Hồng - Âu Cơ  Đen/dmlh_den_hong_tay_daiartboard_5_985fbbdd488a4428935bda251f9eb81a_1024x1024.webp"
+                "path": "images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195326.png"
             },
             {
-                "path": "images/GrimmDC/ao tay dai/Áo thun tay dài Dòng máu Lạc Hồng - Âu Cơ  Đen/dmlh_den_hong_tay_daiartboard_5_985fbbdd488a4428935bda251f9eb81a_1024x1024.webp"
+                "path": "images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195336.png"
             },
             {
                 "path": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png"
