@@ -40,7 +40,7 @@ function SearchBar({ placeholder, data }) {
             return (
               <NavLink
                 className="dataItem"
-                to={`/ShowProduct/${items.id}`}
+                to={`/detail/${items.id}`}
                 target="_blank"
               >
                 <div className="search-bar-results">

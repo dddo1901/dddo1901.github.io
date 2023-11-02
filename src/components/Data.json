@@ -3,26 +3,14 @@
         "id": 1,
         "price": 59.99,
         "name": "Cotton short-sleeved printed shirt",
-        "img": [
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp"
-            },
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp"
-            },
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp"
-            },
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp"
-            },
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp"
-            },
-            {
-                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp"
-            }
-        ],
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp"}],
+        "img1": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp",
         "Top": 1,
         "New": 2,
         "Brand": {
@@ -42,12 +30,14 @@
         "id": 2,
         "price": 59.99,
         "name": "Linen Henley t-shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D1.webp"},
+            {"path": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69-99999999_01.webp"},
+            {"path": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D2.webp"},
+            {"path": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D8.webp"},
+            {"path": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_R.webp"},
+            {"path": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_B.webp"}],
         "img1": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D1.webp",
-        "img2": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69-99999999_01.webp",
-        "img3": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D2.webp",
-        "img4": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D8.webp",
-        "img5": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_R.webp",
-        "img6": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_B.webp",
         "Top": 2,
         "New": 1,
         "Brand": {
@@ -67,12 +57,14 @@
         "id": 3,
         "price": 59.99,
         "name": "Adriana Eskenazi x Mango t-shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15.webp"},
+            {"path": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp"},
+            {"path": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D1.jpg"},
+            {"path": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D2.webp"},
+            {"path": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D8.webp"},
+            {"path": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_R.webp"}],
         "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15.webp",
-        "img2": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp",
-        "img3": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D1.webp",
-        "img4": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D2.webp",
-        "img5": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D8.webp",
-        "img6": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_R.webp",
         "Top": 2,
         "New": 1,
         "Brand": {
@@ -92,12 +84,14 @@
         "id": 4,
         "price": 59.99,
         "name": "Basic mercerised lightweight shir",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08.webp"},
+            {"path": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_B.webp"},
+            {"path": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D6.webp"},
+            {"path": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D2.webp"},
+            {"path": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D8.webp"},
+            {"path": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_R.webp"}],
         "img1": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08.webp",
-        "img2": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_B.webp",
-        "img3": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D6.webp",
-        "img4": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D2.webp",
-        "img5": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D8.webp",
-        "img6": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_R.webp",
         "Top": 1,
         "New": 2,
         "Brand": {
@@ -117,12 +111,14 @@
         "id": 5,
         "price": 59.99,
         "name": "Perkins neck long-sleeved t-shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05.webp"},
+            {"path": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_B.webp"},
+            {"path": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D1.webp"},
+            {"path": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D2.webp"},
+            {"path": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D8.webp"},
+            {"path": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_R.webp"}],
         "img1": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05.webp",
-        "img2": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_B.webp",
-        "img3": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D1.webp",
-        "img4": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D2.webp",
-        "img5": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D8.webp",
-        "img6": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_R.webp",
         "Top": 2,
         "New": 1,
         "Brand": {
@@ -142,12 +138,14 @@
         "id": 6,
         "price": 59.99,
         "name": "Regular fit floral print shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Regular fit floral print shirt/57065801_46.webp"},
+            {"path": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_B.webp"},
+            {"path": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46-99999999_01.webp"},
+            {"path": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D2.webp"},
+            {"path": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D8.webp"},
+            {"path": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_R.webp"}],
         "img1": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46.webp",
-        "img2": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_B.webp",
-        "img3": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46-99999999_01.webp",
-        "img4": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D2.webp",
-        "img5": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D8.webp",
-        "img6": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_R.webp",
         "Top": 1,
         "New": 2,
         "Brand": {
@@ -167,12 +165,14 @@
         "id": 7,
         "price": 59.99,
         "name": "Regular-fit Mao-collar linen shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50.webp"},
+            {"path": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_B.webp"},
+            {"path": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50-99999999_01.webp"},
+            {"path": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D2.webp"},
+            {"path": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D8.webp"},
+            {"path": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_R.webp"}],
         "img1": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50.webp",
-        "img2": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_B.webp",
-        "img3": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50-99999999_01.webp",
-        "img4": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D2.webp",
-        "img5": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D8.webp",
-        "img6": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_R.webp",
         "Top": 1,
         "New": 1,
         "Brand": {
@@ -192,12 +192,14 @@
         "id": 8,
         "price": 59.99,
         "name": "Slim-fit chambray cotton shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D5.webp"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D1.webp"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D2.webp"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_B.webp"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_R.jpg"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp"}],
         "img1": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D5.webp",
-        "img2": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D1.webp",
-        "img3": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D2.webp",
-        "img4": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_B.webp",
-        "img5": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_R.webp",
-        "img6": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp",
         "Top": 1,
         "New": 1,
         "Brand": {
@@ -217,13 +219,14 @@
         "id": 9,
         "price": 59.99,
         "name": "Textured striped T-shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Textured striped T-shirt/57042512_02.webp"},
+            {"path": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp"},
+            {"path": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp"},
+            {"path": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D8.webp"},
+            {"path": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_R.webp"},
+            {"path": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp"}],
         "img1": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02.webp",
-        "img2": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
-        "img3": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
-        "img4": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D8.webp",
-        "img5": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_R.webp",
-        "img6": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_B.webp",
-        "Top": 1,
         "New": 1,
         "Brand": {
             "id": 3,
@@ -242,12 +245,14 @@
         "id": 10,
         "price": 59.99,
         "name": "Cotton boat neck t-shirt",
+        "img":[ 
+            {"path":"/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D4.webp"},
+            {"path": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_B.webp"},
+            {"path": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D1.webp"},
+            {"path": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D3.webp"},
+            {"path": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D8.webp"},
+            {"path": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56.webp"}],
         "img1": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D4.webp",
-        "img2": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_B.webp",
-        "img3": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D1.webp",
-        "img4": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D3.webp",
-        "img5": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D8.webp",
-        "img6": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56.webp",
         "Top": 2,
         "New": 2,
         "Brand": {
