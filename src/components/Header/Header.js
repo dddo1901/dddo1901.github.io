@@ -5,6 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import SearchBar from '../SearchBar/SearchBar';
+import { Link } from 'react-router-dom';
 
 function Header() {
   return (
@@ -12,7 +13,9 @@ function Header() {
       <Container>
         <Row>
           <Col>
-            <img className='Logo' src={Logo} alt="logo" />
+            <Link to={`/`}>
+              <img className='Logo' src={Logo} alt="logo" />
+            </Link>
           </Col>
           <Col>
             <SearchBar />
