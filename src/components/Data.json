@@ -3,13 +3,26 @@
         "id": 1,
         "price": 59.99,
         "name": "Cotton short-sleeved printed shirt",
-        "img":[ 
-            {"path":"/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp"},
-            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp"},
-            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp"},
-            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp"},
-            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp"},
-            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp"}],
+        "img": [
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp"
+            },
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp"
+            },
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp"
+            },
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp"
+            },
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp"
+            },
+            {
+                "path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp"
+            }
+        ],
         "Top": 1,
         "New": 2,
         "Brand": {
@@ -20,12 +33,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Cotton and linen mix. Regular fit. Leaf print. Shirt-style collar. Front button closure. Short sleeve. Rounded hem. The model is 190 cm tall and is wearing a size M."
+        "Description": "Cotton and linen mix. Regular fit. Leaf print. Shirt-style collar. Front button closure. Short sleeve. Rounded hem. The model is 190 cm tall and is wearing a size M."
     },
-
     {
         "id": 2,
         "price": 59.99,
@@ -46,12 +58,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 3,
         "price": 59.99,
@@ -72,12 +83,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 4,
         "price": 59.99,
@@ -98,12 +108,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 5,
         "price": 59.99,
@@ -124,12 +133,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 6,
         "price": 59.99,
@@ -150,12 +158,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 7,
         "price": 59.99,
@@ -176,12 +183,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 8,
         "price": 59.99,
@@ -202,12 +208,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 9,
         "price": 59.99,
@@ -228,12 +233,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 10,
         "price": 59.99,
@@ -254,12 +258,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 11,
         "price": 59.99,
@@ -280,12 +283,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 12,
         "price": 59.99,
@@ -306,12 +308,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 13,
         "price": 59.99,
@@ -332,12 +333,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 14,
         "price": 59.99,
@@ -358,12 +358,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 15,
         "price": 59.99,
@@ -384,12 +383,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 16,
         "price": 59.99,
@@ -410,12 +408,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 17,
         "price": 59.99,
@@ -436,12 +433,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "T-Shirt"
+        "Spec": {
+            "Style": "T-Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 18,
         "price": 59.99,
@@ -462,12 +458,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 19,
         "price": 59.99,
@@ -488,12 +483,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 20,
         "price": 59.99,
@@ -514,12 +508,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 21,
         "price": 59.99,
@@ -540,12 +533,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 22,
         "price": 59.99,
@@ -566,12 +558,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 23,
         "price": 59.99,
@@ -592,12 +583,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 24,
         "price": 59.99,
@@ -618,12 +608,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 25,
         "price": 59.99,
@@ -644,12 +633,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 26,
         "price": 59.99,
@@ -670,12 +658,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Shorts"
+        "Spec": {
+            "Style": "Shorts"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 27,
         "price": 59.99,
@@ -696,12 +683,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 28,
         "price": 59.99,
@@ -722,12 +708,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 29,
         "price": 59.99,
@@ -748,12 +733,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 30,
         "price": 59.99,
@@ -774,12 +758,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 31,
         "price": 59.99,
@@ -800,12 +783,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 32,
         "price": 59.99,
@@ -826,12 +808,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 33,
         "price": 59.99,
@@ -852,12 +833,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 34,
         "price": 59.99,
@@ -878,12 +858,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 35,
         "price": 59.99,
@@ -904,12 +883,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 36,
         "price": 59.99,
@@ -930,12 +908,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Shorts"
+        "Spec": {
+            "Style": "Shorts"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 37,
         "price": 59.99,
@@ -956,12 +933,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Shorts"
+        "Spec": {
+            "Style": "Shorts"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 38,
         "price": 59.99,
@@ -982,12 +958,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 39,
         "price": 59.99,
@@ -1008,12 +983,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Trousers"
+        "Spec": {
+            "Style": "Trousers"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 40,
         "price": 59.99,
@@ -1034,12 +1008,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 41,
         "price": 59.99,
@@ -1057,12 +1030,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 42,
         "price": 59.99,
@@ -1080,12 +1052,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 43,
         "price": 59.99,
@@ -1106,12 +1077,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 44,
         "price": 59.99,
@@ -1132,10 +1102,10 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
     {
         "id": 45,
@@ -1157,12 +1127,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 46,
         "price": 59.99,
@@ -1182,12 +1151,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 47,
         "price": 59.99,
@@ -1206,12 +1174,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 48,
         "price": 59.99,
@@ -1230,12 +1197,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bags"
+        "Spec": {
+            "Style": "Bags"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 49,
         "price": 59.99,
@@ -1253,12 +1219,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 50,
         "price": 59.99,
@@ -1276,12 +1241,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 51,
         "price": 59.99,
@@ -1299,12 +1263,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 52,
         "price": 59.99,
@@ -1322,12 +1285,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 53,
         "price": 59.99,
@@ -1345,12 +1307,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 54,
         "price": 59.99,
@@ -1368,12 +1329,11 @@
             "id": 4,
             "name": "Accessories"
         },
-        "Spec" : {
-            "Style" : "Wallets"
+        "Spec": {
+            "Style": "Wallets"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 55,
         "price": 59.99,
@@ -1390,12 +1350,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 56,
         "price": 59.99,
@@ -1413,12 +1372,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 57,
         "price": 59.99,
@@ -1435,12 +1393,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 58,
         "price": 59.99,
@@ -1457,12 +1414,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 59,
         "price": 59.99,
@@ -1479,12 +1435,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 60,
         "price": 59.99,
@@ -1502,12 +1457,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 61,
         "price": 59.99,
@@ -1524,12 +1478,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 62,
         "price": 59.99,
@@ -1546,12 +1499,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 63,
         "price": 59.99,
@@ -1569,12 +1521,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 64,
         "price": 59.99,
@@ -1590,12 +1541,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 65,
         "price": 59.99,
@@ -1612,12 +1562,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 66,
         "price": 59.99,
@@ -1634,12 +1583,11 @@
             "id": 2,
             "name": "Bottom"
         },
-        "Spec" : {
-            "Style" : "Jeans"
+        "Spec": {
+            "Style": "Jeans"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 67,
         "price": 59.99,
@@ -1656,12 +1604,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 68,
         "price": 59.99,
@@ -1679,12 +1626,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 69,
         "price": 59.99,
@@ -1701,12 +1647,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 70,
         "price": 59.99,
@@ -1723,12 +1668,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 71,
         "price": 59.99,
@@ -1746,12 +1690,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 72,
         "price": 59.99,
@@ -1767,12 +1710,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 73,
         "price": 59.99,
@@ -1790,12 +1732,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 74,
         "price": 59.99,
@@ -1812,12 +1753,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 75,
         "price": 59.99,
@@ -1833,12 +1773,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 76,
         "price": 59.99,
@@ -1856,12 +1795,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 77,
         "price": 59.99,
@@ -1878,12 +1816,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 78,
         "price": 59.99,
@@ -1900,12 +1837,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 79,
         "price": 59.99,
@@ -1923,12 +1859,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 80,
         "price": 59.99,
@@ -1946,12 +1881,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 81,
         "price": 59.99,
@@ -1968,12 +1902,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 82,
         "price": 59.99,
@@ -1990,12 +1923,11 @@
             "id": 1,
             "name": "Top"
         },
-        "Spec" : {
-            "Style" : "Shirt"
+        "Spec": {
+            "Style": "Shirt"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 83,
         "price": 59.99,
@@ -2015,12 +1947,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bag"
+        "Spec": {
+            "Style": "Bag"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 84,
         "price": 59.99,
@@ -2040,12 +1971,11 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bag"
+        "Spec": {
+            "Style": "Bag"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 85,
         "price": 59.99,
@@ -2065,20 +1995,30 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bag"
+        "Spec": {
+            "Style": "Bag"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 86,
         "price": 59.99,
         "name": "Signature Woman Shoulder Bag - Black- DirtyCoins",
         "img1": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194538.png",
-        "img2": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194550.png",
-        "img3": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194603.png",
-        "img4": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194614.png",
+        "img": [
+            {
+                "path": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194538.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194550.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194603.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194614.png"
+            }
+        ],
         "Top": 2,
         "New": 2,
         "Brand": {
@@ -2089,20 +2029,30 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bag"
+        "Spec": {
+            "Style": "Bag"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     },
-
     {
         "id": 87,
         "price": 59.99,
         "name": "Wreath Leaf Logo Backpack - Black- DirtyCoins",
+        "img": [
+            {
+                "path": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195326.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195336.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png"
+            },
+            {
+                "path": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png"
+            }
+        ],
         "img1": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195326.png",
-        "img2": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195336.png",
-        "img3": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png",
-        "img4": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195357.png",
         "Top": 2,
         "New": 2,
         "Brand": {
@@ -2113,9 +2063,9 @@
             "id": 3,
             "name": "Bags"
         },
-        "Spec" : {
-            "Style" : "Bag"
+        "Spec": {
+            "Style": "Bag"
         },
-        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
 ]

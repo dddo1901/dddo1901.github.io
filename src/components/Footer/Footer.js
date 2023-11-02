@@ -22,11 +22,7 @@ function Footer() {
         </div>
         <div className="footer-address-email">
           <div className="footer-email">
-<<<<<<< HEAD
             <i class="fa-solid fa-envelope"></i> GraciousGrament@gmail.com{" "}
-=======
-            <i class="fa-solid fa-envelope"></i> GraciousGarments@gmail.com{" "}
->>>>>>> 2fe57ac40c17930c0a6523a00b1fcad62cfb9a25
           </div>
           <div className="footer-address">
             <Link
