@@ -1,5 +1,6 @@
 @import "../variables/variables.scss";
 .mainmenu {
+    z-index: 10;
     background-color: $background-color;
     text-align: start;
     width: 100%;
