@@ -9,7 +9,6 @@ import { Container } from "react-bootstrap";
 import "react-phone-number-input/style.css";
 import PhoneInput from "react-phone-number-input";
 import { Card } from "react-bootstrap";
-import Footer from "../Footer/Footer";
 import { motion } from "framer-motion";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -204,7 +203,6 @@ function ContactUs() {
           </Col>
         </Row>
       </Container>
-      <Footer />
     </motion.div>
   );
 }

@@ -3,18 +3,24 @@
         "id": 1,
         "price": 59.99,
         "name": "Cotton short-sleeved printed shirt",
-        "img1": "/images/57015791_52.webp",
-        "img2": "/images/57015791_52_D2.webp",
-        "img3": "/images/57015791_52_D8.webp",
-        "img4": "/images/57015791_52_R.png",
-        "img5": "/images/57015791_52-99999999_01.png",
-        "img6": "/images/57015791_52.webp",
+        "img":[ 
+            {"path":"/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D2.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_D8.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_R.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52_B.webp"},
+            {"path": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52-99999999_01.webp"}],
+        "Top": 1,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
         "Spec" : {
-            "Brand" : "Mango",
-            "Efd" : {
-                "Id" : 1,
-                "Name" : "Top" 
-                    },
             "Style" : "Shirt"
         },
         "Description" : "Cotton and linen mix. Regular fit. Leaf print. Shirt-style collar. Front button closure. Short sleeve. Rounded hem. The model is 190 cm tall and is wearing a size M."
@@ -23,20 +29,2092 @@
     {
         "id": 2,
         "price": 59.99,
-        "name": "100% linen Henley t-shirt",
-        "img1": "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57040681_99_B.jpg?ts=1697542870812&imwidth=332&imdensity=2",
-        "img2": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D1.webp",
-        "img3": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D2.webp",
-        "img4": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_D8.webp",
-        "img5": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69_R.webp",
-        "img6": "/images/Mango/Top/men/100% linen Henley t-shirt/47025925_69.webp",
+        "name": "Linen Henley t-shirt",
+        "img1": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D1.webp",
+        "img2": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69-99999999_01.webp",
+        "img3": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D2.webp",
+        "img4": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_D8.webp",
+        "img5": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_R.webp",
+        "img6": "/images/Mango/Top/men/Linen Henley t-shirt/47025925_69_B.webp",
+        "Top": 2,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
         "Spec" : {
-            "Brand" : "Mango",
-            "Efd" : {
-                "Id" : 1,
-                "Name" : "Top" 
-                    },
             "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 3,
+        "price": 59.99,
+        "name": "Adriana Eskenazi x Mango t-shirt",
+        "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15.webp",
+        "img2": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_B.webp",
+        "img3": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D1.webp",
+        "img4": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D2.webp",
+        "img5": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_D8.webp",
+        "img6": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15_R.webp",
+        "Top": 2,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 4,
+        "price": 59.99,
+        "name": "Basic mercerised lightweight shir",
+        "img1": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08.webp",
+        "img2": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_B.webp",
+        "img3": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D6.webp",
+        "img4": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D2.webp",
+        "img5": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_D8.webp",
+        "img6": "/images/Mango/Top/men/Basic mercerised lightweight shir/57010799_08_R.webp",
+        "Top": 1,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 5,
+        "price": 59.99,
+        "name": "Perkins neck long-sleeved t-shirt",
+        "img1": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05.webp",
+        "img2": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_B.webp",
+        "img3": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D1.webp",
+        "img4": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D2.webp",
+        "img5": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_D8.webp",
+        "img6": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05_R.webp",
+        "Top": 2,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 6,
+        "price": 59.99,
+        "name": "Regular fit floral print shirt",
+        "img1": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46.webp",
+        "img2": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_B.webp",
+        "img3": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46-99999999_01.webp",
+        "img4": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D2.webp",
+        "img5": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_D8.webp",
+        "img6": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46_R.webp",
+        "Top": 1,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 7,
+        "price": 59.99,
+        "name": "Regular-fit Mao-collar linen shirt",
+        "img1": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50.webp",
+        "img2": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_B.webp",
+        "img3": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50-99999999_01.webp",
+        "img4": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D2.webp",
+        "img5": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_D8.webp",
+        "img6": "/images/Mango/Top/men/Regular-fit Mao-collar linen shirt/47035906_50_R.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 8,
+        "price": 59.99,
+        "name": "Slim-fit chambray cotton shirt",
+        "img1": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D5.webp",
+        "img2": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D1.webp",
+        "img3": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_D2.webp",
+        "img4": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_B.webp",
+        "img5": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO_R.webp",
+        "img6": "/images/Mango/Top/men/Slim-fit chambray cotton shirt/57014392_TO.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 9,
+        "price": 59.99,
+        "name": "Textured striped T-shirt",
+        "img1": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02.webp",
+        "img2": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
+        "img3": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D1.webp",
+        "img4": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_D8.webp",
+        "img5": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_R.webp",
+        "img6": "/images/Mango/Top/men/Textured striped T-shirt/57042512_02_B.webp",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 10,
+        "price": 59.99,
+        "name": "Cotton boat neck t-shirt",
+        "img1": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D4.webp",
+        "img2": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_B.webp",
+        "img3": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D1.webp",
+        "img4": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D3.webp",
+        "img5": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56_D8.webp",
+        "img6": "/images/Mango/Top/women/Cotton boat neck t-shirt/57074401_56.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 11,
+        "price": 59.99,
+        "name": "Metallic top with flower detail",
+        "img1": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D6.webp",
+        "img2": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_B.webp",
+        "img3": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D1.webp",
+        "img4": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05_D2.webp",
+        "img5": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Metallic top with flower detail/57093820_05.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 12,
+        "price": 59.99,
+        "name": "Printed short-sleeved shirt",
+        "img1": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D2.webp",
+        "img2": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_B.webp",
+        "img3": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D1.webp",
+        "img4": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52_D8.webp",
+        "img5": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Printed short-sleeved shirt/57074011_52.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 13,
+        "price": 59.99,
+        "name": "Ruched satin blouse",
+        "img1": "/images/Mango/Top/women/Ruched satin blouse/57017115_99.webp",
+        "img2": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D1.webp",
+        "img3": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D1.webp",
+        "img4": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_D8.webp",
+        "img5": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_R.webp",
+        "img6": "/images/Mango/Top/women/Ruched satin blouse/57017115_99_B.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 14,
+        "price": 59.99,
+        "name": "Semi-transparent lace shirt",
+        "img1": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05.jpg",
+        "img2": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_B.webp",
+        "img3": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D1.webp",
+        "img4": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D2.webp",
+        "img5": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D7.webp",
+        "img6": "/images/Mango/Top/women/Semi-transparent lace shirt/57078279_05_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 15,
+        "price": 59.99,
+        "name": "Sleeveless wrap blouse",
+        "img1": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05.webp",
+        "img2": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_D3.webp",
+        "img3": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_D8.webp",
+        "img4": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_R.webp",
+        "img5": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05-99999999_01.webp",
+        "img6": "/images/Mango/Top/women/Sleeveless wrap blouse/57013812_05_B.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 16,
+        "price": 59.99,
+        "name": "Spaghetti strap top",
+        "img1": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D1.webp",
+        "img2": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_B.webp",
+        "img3": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D2.webp",
+        "img4": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_D8.webp",
+        "img5": "/images/Mango/Top/women/Spaghetti strap top/57061167_99_R.webp",
+        "img6": "/images/Mango/Top/women/Spaghetti strap top/57061167_99.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 17,
+        "price": 59.99,
+        "name": "Striped print T-shirt",
+        "img1": "/images/Mango/Top/women/Striped print T-shirt/57010481_20.webp",
+        "img2": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_B.webp",
+        "img3": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D1.webp",
+        "img4": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D2.webp",
+        "img5": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_D8.webp",
+        "img6": "/images/Mango/Top/women/Striped print T-shirt/57010481_20_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "T-Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 18,
+        "price": 59.99,
+        "name": "Tie-neck blouse",
+        "img1": "/images/Mango/Top/women/Tie-neck blouse/57065982_01.webp",
+        "img2": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_B.webp",
+        "img3": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D1.webp",
+        "img4": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D2.webp",
+        "img5": "/images/Mango/Top/women/Tie-neck blouse/57065982_01_D8.webp",
+        "img6": "/images/Mango/Top/women/Tie-neck blouse/57065982_01-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 19,
+        "price": 59.99,
+        "name": "Wrap shirt with knot detail",
+        "img1": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02.jpg",
+        "img2": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_B.webp",
+        "img3": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_D1.webp",
+        "img4": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_D8.webp",
+        "img5": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02_R.webp",
+        "img6": "/images/Mango/Top/women/Wrap shirt with knot detail/57050011_02-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 20,
+        "price": 59.99,
+        "name": "Bob straight-fit jeans",
+        "img1": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_B.webp",
+        "img3": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D2.webp",
+        "img5": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D3.jpg",
+        "img6": "/images/Mango/bottom/men/Bob straight-fit jeans/57024392_05_D4.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 21,
+        "price": 59.99,
+        "name": "Dark-wash tapered-fit jeans",
+        "img1": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_B.webp",
+        "img3": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D1.webp",
+        "img4": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D2.webp",
+        "img5": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D4.webp",
+        "img6": "/images/Mango/bottom/men/Dark-wash tapered-fit jeans/57074404_TO_D8.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 22,
+        "price": 59.99,
+        "name": "Jan slim-fit jeans",
+        "img1": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D1.jpg",
+        "img3": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D2.webp",
+        "img4": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_D8.webp",
+        "img5": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB_R.webp",
+        "img6": "/images/Mango/bottom/men/Jan slim-fit jeans/57010688_BB.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 23,
+        "price": 59.99,
+        "name": "Pinstripe cotton slim-fit trousers",
+        "img1": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_B.webp",
+        "img3": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D2.jpg",
+        "img5": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D3.webp",
+        "img6": "/images/Mango/bottom/men/Pinstripe cotton slim-fit trousers/57025954_96_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 24,
+        "price": 59.99,
+        "name": "Regular-fit suit trousers with pleats",
+        "img1": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_B.webp",
+        "img3": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D2.webp",
+        "img5": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D5.jpg",
+        "img6": "/images/Mango/bottom/men/Regular-fit suit trousers with pleats/57032506_08_D6.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 25,
+        "price": 59.99,
+        "name": "Slim fit Ultra Soft Touch Patrick jeans",
+        "img1": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_B.webp",
+        "img3": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D1.webp",
+        "img4": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D2.webp",
+        "img5": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D6.webp",
+        "img6": "/images/Mango/bottom/men/Slim fit Ultra Soft Touch Patrick jeans/57004425_TN_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 26,
+        "price": 59.99,
+        "name": "Slim-fit denim bermuda shorts",
+        "img1": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D1.jpg",
+        "img3": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D2.jpg",
+        "img4": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D4.jpg",
+        "img5": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_D8.jpg",
+        "img6": "/images/Mango/bottom/men/Slim-fit denim bermuda shorts/57045787_TC_R.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 27,
+        "price": 59.99,
+        "name": "Stretch fabric super slim-fit suit trousers",
+        "img1": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_B.webp",
+        "img3": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D2.jpg",
+        "img5": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D6.webp",
+        "img6": "/images/Mango/bottom/men/Stretch fabric super slim-fit suit trousers/57010545_50_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 28,
+        "price": 59.99,
+        "name": "Super slim fit printed suit pants",
+        "img1": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_B.webp",
+        "img3": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D1.jpg",
+        "img4": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D2.webp",
+        "img5": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_D8.webp",
+        "img6": "/images/Mango/bottom/men/Super slim fit printed suit pants/57040675_55_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 29,
+        "price": 59.99,
+        "name": "Tom tapered cropped jeans",
+        "img1": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB-99999999_01.webp",
+        "img2": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_B.webp",
+        "img3": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D1.webp",
+        "img4": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D2.webp",
+        "img5": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D4.webp",
+        "img6": "/images/Mango/bottom/men/Tom tapered cropped jeans/57014408_BB_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 30,
+        "price": 59.99,
+        "name": "Carpenter cargo jeans",
+        "img1": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_B.webp",
+        "img3": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D1.webp",
+        "img4": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D2.webp",
+        "img5": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_D8.webp",
+        "img6": "/images/Mango/bottom/women/Carpenter cargo jeans/57045970_68_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 31,
+        "price": 59.99,
+        "name": "Decorative ripped wideleg jeans",
+        "img1": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_B.webp",
+        "img3": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D1.webp",
+        "img4": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D2.webp",
+        "img5": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D6.webp",
+        "img6": "/images/Mango/bottom/women/Decorative ripped wideleg jeans/57005978_TM_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 32,
+        "price": 59.99,
+        "name": "Low waist wideleg jeans",
+        "img1": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_B.webp",
+        "img3": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D1.webp",
+        "img4": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D2.webp",
+        "img5": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D6.webp",
+        "img6": "/images/Mango/bottom/women/Low waist wideleg jeans/57035959_TO_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 33,
+        "price": 59.99,
+        "name": "Maternity Straight Jeans",
+        "img1": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_B.webp",
+        "img3": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D1.webp",
+        "img4": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D2.webp",
+        "img5": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_D8.webp",
+        "img6": "/images/Mango/bottom/women/Maternity Straight Jeans/57003816_01_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 34,
+        "price": 59.99,
+        "name": "Medium-rise straight jeans with slits",
+        "img1": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_B.webp",
+        "img3": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D1.webp",
+        "img4": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D6.webp",
+        "img5": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_D8.webp",
+        "img6": "/images/Mango/bottom/women/Medium-rise straight jeans with slits/57040293_02_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 35,
+        "price": 59.99,
+        "name": "Mid-rise corduroy trousers",
+        "img1": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_B.webp",
+        "img3": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D1.webp",
+        "img4": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D2.webp",
+        "img5": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D6.webp",
+        "img6": "/images/Mango/bottom/women/Mid-rise corduroy trousers/57067707_95_D8.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 36,
+        "price": 59.99,
+        "name": "Paperbag shorts with belt",
+        "img1": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_B.webp",
+        "img3": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D1.webp",
+        "img4": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D6.webp",
+        "img5": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_D8.webp",
+        "img6": "/images/Mango/bottom/women/Paperbag shorts with belt/57084403_09_R.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 37,
+        "price": 59.99,
+        "name": "Printed denim shorts",
+        "img1": "/images/Mango/bottom/women/Printed denim shorts/57002886_88-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_B.webp",
+        "img3": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_D6.webp",
+        "img4": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_D8.webp",
+        "img5": "/images/Mango/bottom/women/Printed denim shorts/57002886_88_R.webp",
+        "img6": "/images/Mango/bottom/women/Printed denim shorts/57002886_88.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Shorts"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 38,
+        "price": 59.99,
+        "name": "Seam-detail culotte trousers",
+        "img1": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_B.webp",
+        "img3": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_D1.webp",
+        "img4": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_D8.webp",
+        "img5": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77_R.webp",
+        "img6": "/images/Mango/bottom/women/Seam-detail culotte trousers/57085789_77.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 39,
+        "price": 59.99,
+        "name": "Slit hem leggings",
+        "img1": "/images/Mango/bottom/women/Slit hem leggings/47000086_99-99999999_01.webp",
+        "img2": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_B.webp",
+        "img3": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_D1.webp",
+        "img4": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_D8.webp",
+        "img5": "/images/Mango/bottom/women/Slit hem leggings/47000086_99_R.webp",
+        "img6": "/images/Mango/bottom/women/Slit hem leggings/47000086_99.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Trousers"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 40,
+        "price": 59.99,
+        "name": "Backpack with leather-effect details",
+        "img1": "/images/Mango/bags/Backpack with leather-effect details/57084409_99.webp",
+        "img2": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_B.webp",
+        "img3": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_D1.webp",
+        "img4": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_D2.webp",
+        "img5": "/images/Mango/bags/Backpack with leather-effect details/57084409_99_D9.webp",
+        "img6": "/images/Mango/bags/Backpack with leather-effect details/57084409_99-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 41,
+        "price": 59.99,
+        "name": "Leather effect zippered shoulder bag",
+        "img1": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99.webp",
+        "img2": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99_B.webp",
+        "img3": "/images/Mango/bags/Leather effect zippered shoulder bag/57010893_99_D1.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 42,
+        "price": 59.99,
+        "name": "Leather-effect backpack",
+        "img1": "/images/Mango/bags/Leather-effect backpack/57040823_99.webp",
+        "img2": "/images/Mango/bags/Leather-effect backpack/57040823_99_D1.webp",
+        "img3": "/images/Mango/bags/Leather-effect backpack/57040823_99_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 43,
+        "price": 59.99,
+        "name": "Leather-effect travel bowling bag",
+        "img1": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30.webp",
+        "img2": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_B.webp",
+        "img3": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D1.webp",
+        "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
+        "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
+        "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 44,
+        "price": 59.99,
+        "name": "Leather-effect travel bowling bag",
+        "img1": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30.webp",
+        "img2": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_B.webp",
+        "img3": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D1.webp",
+        "img4": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D2.webp",
+        "img5": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D3.webp",
+        "img6": "/images/Mango/bags/Leather-effect travel bowling bag/57014394_30_D4.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+    {
+        "id": 45,
+        "price": 59.99,
+        "name": "Natural fibre sack bag",
+        "img1": "/images/Mango/bags/Natural fibre sack bag/47015918_09_B.webp",
+        "img2": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D1.webp",
+        "img3": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D2.webp",
+        "img4": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D5.webp",
+        "img5": "/images/Mango/bags/Natural fibre sack bag/47015918_09_D9.webp",
+        "img6": "/images/Mango/bags/Natural fibre sack bag/47015918_09-99999999_01.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 46,
+        "price": 59.99,
+        "name": "Saffiano-effect small shopper bag",
+        "img1": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50.webp",
+        "img2": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_B.webp",
+        "img3": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D1.webp",
+        "img4": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D2.webp",
+        "img5": "/images/Mango/bags/Saffiano-effect small shopper bag/57002515_50_D5.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 47,
+        "price": 59.99,
+        "name": "Shoulder bag with bow detail",
+        "img1": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11.webp",
+        "img2": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_B.webp",
+        "img3": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_D1.webp",
+        "img4": "/images/Mango/bags/Shoulder bag with bow detail/57004440_11_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 48,
+        "price": 59.99,
+        "name": "Shoulder bag with printed logo",
+        "img1": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30.webp",
+        "img2": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_B.webp",
+        "img3": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_D1.webp",
+        "img4": "/images/Mango/bags/Shoulder bag with printed logo/57012002_30_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bags"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 49,
+        "price": 59.99,
+        "name": "Anti-contactless leather-effect card holder",
+        "img1": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99.webp",
+        "img2": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_B.webp",
+        "img3": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_D1.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 50,
+        "price": 59.99,
+        "name": "Anti-contactless wallet",
+        "img1": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_B.webp",
+        "img2": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D1.webp",
+        "img3": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 51,
+        "price": 59.99,
+        "name": "Crocodile wallet with logo",
+        "img1": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99.webp",
+        "img2": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_B.webp",
+        "img3": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_D1.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 52,
+        "price": 59.99,
+        "name": "Padded case",
+        "img1": "/images/Mango/accessories/Padded case/57085807_85.webp",
+        "img2": "/images/Mango/accessories/Padded case/57085807_85_D1.webp",
+        "img3": "/images/Mango/accessories/Padded case/57085807_85_B.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 53,
+        "price": 59.99,
+        "name": "Textured card holder with embossed logo",
+        "img1": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02.jpg",
+        "img2": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_B.webp",
+        "img3": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_D1.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 54,
+        "price": 59.99,
+        "name": "Wallet with printed logo",
+        "img1": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_B.webp",
+        "img2": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D1.webp",
+        "img3": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 3,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec" : {
+            "Style" : "Wallets"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 55,
+        "price": 59.99,
+        "name": "Men's Elastic Waist Jeans",
+        "img1": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09182-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09959-scaled.jpg",
+        "Top": 1,
+        "New": 1,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 56,
+        "price": 59.99,
+        "name": "Men's Elastic Waist Jeans 2",
+        "img1": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09071-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09094-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/men/Men's Elastic Waist Jeans 2/DSC09104-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 57,
+        "price": 59.99,
+        "name": "Men's Jeans Pants with Elastic Waist",
+        "img1": "/images/Fiftheway/bottom/men/Men's Jeans Pants with Elastic Waist/DSC09555-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Jeans Pants with Elastic Waist/DSC09558-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 58,
+        "price": 59.99,
+        "name": "Men's Jeans Shorts",
+        "img1": "/images/Fiftheway/bottom/men/Men's Jeans Shorts/DSC09339-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Jeans Shorts/DSC09344-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 59,
+        "price": 59.99,
+        "name": "Men's Khaki Trousers",
+        "img1": "/images/Fiftheway/bottom/men/Men's Khaki Trousers/DSC09955-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Khaki Trousers/DSC09959-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 60,
+        "price": 59.99,
+        "name": "Men's Sports Tights",
+        "img1": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08518-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08538-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/men/Men's Sports Tights/DSC08547-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 61,
+        "price": 59.99,
+        "name": "Women's Jean Shorts",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jean Shorts/DSC09737-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jean Shorts/DSC09738-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 62,
+        "price": 59.99,
+        "name": "Women's Jean Shorts 2",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jean Shorts 2/DSC09800-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jean Shorts 2/DSC09807-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 63,
+        "price": 59.99,
+        "name": "Women's Jeans",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08751-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08771-scaled.jpg",
+        "img3": "/images/Fiftheway/bottom/women/Women's Jeans/DSC08778-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 64,
+        "price": 59.99,
+        "name": "Women's Jeans Skirt",
+        "img1": "/images/Fiftheway/bottom/women/Women's Jeans Skirt/DSC09383-1-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 65,
+        "price": 59.99,
+        "name": "Women's Long Flare Jeans",
+        "img1": "/images/Fiftheway/bottom/women/Women's Long Flare Jeans/DSC08269-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Long Flare Jeans/DSC08270-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 66,
+        "price": 59.99,
+        "name": "Women's Sports Tights",
+        "img1": "/images/Fiftheway/bottom/women/Women's Sports Tights/DSC08269-scaled.jpg",
+        "img2": "/images/Fiftheway/bottom/women/Women's Sports Tights/DSC08512-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 2,
+            "name": "Bottom"
+        },
+        "Spec" : {
+            "Style" : "Jeans"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 67,
+        "price": 59.99,
+        "name": "Men's Basic T-Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Basic T-Shirt/DSC09329-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Basic T-Shirt/DSC09344-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 68,
+        "price": 59.99,
+        "name": "Men's Horizontal Striped Polo Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07928-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07935-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Horizontal Striped Polo Shirt/DSC07951-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 69,
+        "price": 59.99,
+        "name": "Men's Long Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Long Sleeve Shirt/DSC09697-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Long Sleeve Shirt/DSC09700-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 70,
+        "price": 59.99,
+        "name": "Men's Patterned Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Patterned Shirt/DSC09262-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Patterned Shirt/DSC09265-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 71,
+        "price": 59.99,
+        "name": "Men's Polo T-shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08627-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08637-Copy-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Polo T-shirt/DSC08644-Copy-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 72,
+        "price": 59.99,
+        "name": "Men's Printed Collar T-shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Printed Collar T-shirt/DSC08303-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 73,
+        "price": 59.99,
+        "name": "Men's Short Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08000-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08006-scaled.jpg",
+        "img3": "/images/Fiftheway/top/men/Men's Short Sleeve Shirt/DSC08024-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 74,
+        "price": 59.99,
+        "name": "Men's Tank Top",
+        "img1": "/images/Fiftheway/top/men/Men's Tank Top/DSC09764-scaled.jpg",
+        "img2": "/images/Fiftheway/top/men/Men's Tank Top/DSC09771-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 75,
+        "price": 59.99,
+        "name": "Basic Women's T-shirt 4",
+        "img1": "/images/Fiftheway/top/women/Basic Women's T-shirt 4/DSC09371-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 76,
+        "price": 59.99,
+        "name": "Woman's Turtleneck Sleeveless Blouse",
+        "img1": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09575-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09583-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/urtleneck Sleeveless Blouse/DSC09597-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 77,
+        "price": 59.99,
+        "name": "Women's Basic Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Basic Shirt/DSC09659-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic Shirt/DSC09675-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 78,
+        "price": 59.99,
+        "name": "Women's Basic Shirt 2",
+        "img1": "/images/Fiftheway/top/women/Women's Basic Shirt 2/DSC08096-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic Shirt 2/DSC08111-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 79,
+        "price": 59.99,
+        "name": "Women's Basic T-Shirt 3",
+        "img1": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08040-1-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08055-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/Women's Basic T-Shirt  3/DSC08063-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 80,
+        "price": 59.99,
+        "name": "Women's Solid Sleeve Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08237-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08261-scaled.jpg",
+        "img3": "/images/Fiftheway/top/women/Women's Solid Sleeve Shirt/DSC08270-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 81,
+        "price": 59.99,
+        "name": "Women's Somi Shirt",
+        "img1": "/images/Fiftheway/top/women/Women's Somi Shirt/DSC09212-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Somi Shirt/DSC09232-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 82,
+        "price": 59.99,
+        "name": "Women's Tank Top with Collar",
+        "img1": "/images/Fiftheway/top/women/Women's Tank Top with Collar/DSC08153-scaled.jpg",
+        "img2": "/images/Fiftheway/top/women/Women's Tank Top with Collar/DSC08173-scaled.jpg",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 4,
+            "name": "5TheWay"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec" : {
+            "Style" : "Shirt"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 83,
+        "price": 59.99,
+        "name": "Canvas Cross Bag - Black - DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195621.png",
+        "img2": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img3": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img4": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "img5": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 84,
+        "price": 59.99,
+        "name": "Chonky Kittens Tote Bag - DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195932.png",
+        "img2": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195924.png",
+        "img3": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195939.png",
+        "img4": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195945.png",
+        "img5": "/images/DirtyCoins/BAGS/Chonky Kittens Tote Bag - DirtyCoins/Screenshot 2023-10-19 195955.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 85,
+        "price": 59.99,
+        "name": "Pattern Leather Backpack- Cream- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194934.png",
+        "img2": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194940.png",
+        "img3": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 194953.png",
+        "img4": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 195005.png",
+        "img5": "/images/DirtyCoins/BAGS/Pattern Leather Backpack- Cream- DirtyCoins/Screenshot 2023-10-19 195011.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 86,
+        "price": 59.99,
+        "name": "Signature Woman Shoulder Bag - Black- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194538.png",
+        "img2": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194550.png",
+        "img3": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194603.png",
+        "img4": "/images/DirtyCoins/BAGS/Signature Woman Shoulder Bag - Black- DirtyCoins/Screenshot 2023-10-19 194614.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
+        },
+        "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 87,
+        "price": 59.99,
+        "name": "Wreath Leaf Logo Backpack - Black- DirtyCoins",
+        "img1": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195326.png",
+        "img2": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195336.png",
+        "img3": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195342.png",
+        "img4": "/images/DirtyCoins/BAGS/Wreath Leaf Logo Backpack - Black- DirtyCoins/Screenshot 2023-10-19 195357.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 3,
+            "name": "Bags"
+        },
+        "Spec" : {
+            "Style" : "Bag"
         },
         "Description" : "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }

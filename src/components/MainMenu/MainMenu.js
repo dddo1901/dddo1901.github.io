@@ -18,15 +18,13 @@ function MainMenu() {
             <Nav className="me-auto">
 
               <Nav.Link href="/" className='mainmenu-item'>HOMEPAGE</Nav.Link>
-              <Nav.Link href="/products" className='mainmenu-item'>PRODUCTS</Nav.Link>
-
               <NavDropdown
                     title="CATEGORIES"
                     id="basic-nav-dropdown"
                     className="mainmenu-item"
                   >
                     {Categories.map((item, index) => (
-                      <NavDropdown.Item href={`/Categories/${item.Id}`} key={index}>
+                      <NavDropdown.Item href={`/Categories/${item.id}`} key={index}>
                         {item.name}
                       </NavDropdown.Item>
                     ))}
@@ -47,8 +45,9 @@ function MainMenu() {
                       </NavDropdown.Item>
                     ))}
                   </NavDropdown>
+              <Nav.Link href="/compare" className='mainmenu-item'>COMPARE</Nav.Link>
               <Nav.Link href="/contact" className='mainmenu-item'>CONTACT US</Nav.Link>
-              <Nav.Link href="/about_us" className='mainmenu-item'>ABOUT US</Nav.Link>
+              <Nav.Link href="/about_us" className='mainmenu-item'>ABOUT US</Nav.Link>           
             </Nav>
           </Navbar.Collapse>
         </Container>
