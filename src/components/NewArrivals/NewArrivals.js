@@ -6,11 +6,30 @@ import Button from 'react-bootstrap/Button';
 import Products from "../Data.json";
 import './NewArrivals.scss';
 import { Link } from 'react-router-dom';
+import { ToastContainer,toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
 
 function NewArrivals() {
+  useEffect(() => {
+    AOS.init({ duration: 1700 });
+  }, []);
+  const notify = () =>
+    toast.success("Product successfully added", {
+      position: "top-right",
+      autoClose: 5000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "light",
+    });
   return (
     <Container fluid="md">
-      <Row>
+      <Row className="text-center mt-5 mb-3 ">
         <h1 className="newarrivals-title">New Arrivals</h1>
       </Row>
 
@@ -30,6 +49,7 @@ function NewArrivals() {
                     variant="top"
                     src={items.img1}
                     alt={items.name}
+                    data-aos="zoom-in" 
                 />
               </Link>
               <Card.Body> 
@@ -59,6 +79,18 @@ function NewArrivals() {
             </Card>
           </Col>
         ))}
+        <ToastContainer
+          position="top-right"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
       </Row>
     </Container>
   )
