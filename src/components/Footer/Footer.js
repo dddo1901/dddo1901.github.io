@@ -42,19 +42,19 @@ function Footer() {
           <div className="footer-social-icon">
             <Link
               className="link-footer"
-              to="https://www.facebook.com/profile.php?id=100031709886303"
+              to="https://www.facebook.com/"
             >
               <i class="fa-brands fa-facebook"></i>
             </Link>
             <Link
               className="link-footer"
-              to="https://www.instagram.com/tramell_a1/"
+              to="https://www.instagram.com/"
             >
               <i class="fa-brands fa-instagram"></i>
             </Link>
             <Link
               className="link-footer"
-              to="https://www.youtube.com/watch?v=CJfWGJ3VHh8"
+              to="https://www.youtube.com/"
             >
               <i class="fa-brands fa-youtube"></i>
             </Link>
