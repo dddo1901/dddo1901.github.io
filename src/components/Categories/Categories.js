@@ -5,9 +5,11 @@ import { Col, Row, Container } from "react-bootstrap";
 import { Button } from "react-bootstrap";
 import Products from "../Data.json";
 import { Link } from 'react-router-dom';
+import './style.scss';
 
 
-function Categories() {
+function Categories(props) {
+  const item = props;
   const {id} = useParams();
   let items = Products.filter((items) => items.Category.id == id);
   console.log(items);
@@ -44,11 +46,15 @@ function Categories() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                <Link to={`/detail/${items.id}`}>
+                
                   <Button className="add-products">
                     ADD TO CART
                   </Button>
-                </Link>
+
+                  <Button className="add-products" onClick={()=>props.handleAddComp(item.id)} >
+                    COMPARE
+                  </Button>
+                
                 </Card.Body>
               </Card>
             </Col>

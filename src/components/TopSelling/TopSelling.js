@@ -6,8 +6,12 @@ import Button from 'react-bootstrap/Button';
 import Products from "../Data.json";
 import './TopSelling.scss';
 import { Link } from 'react-router-dom';
+import './style.scss';
 
-function TopSelling() {
+function TopSelling(props) {
+  
+  const item = props;
+
   return (
     <Container fluid="md">
       <Row>
