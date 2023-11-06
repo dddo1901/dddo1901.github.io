@@ -16,8 +16,7 @@ import './style.scss';
 function NewArrivals(props) {
 
   const item = props;
-
-function NewArrivals() {
+  
   return (
     <Container fluid="md">
       <Row className="text-center mt-5 mb-3 ">
