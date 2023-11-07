@@ -7,13 +7,11 @@ import Products from "../Data.json";
 import { Link } from 'react-router-dom';
 import './style.scss';
 
-function Brands(props) {
+function Brands() {
   
   const { id } = useParams();
   let items = Products.filter((items) => items.Brand.id == id);
 
-  console.log(items);
-  console.log(props);
   return (
     <div>
      <Container>
@@ -50,10 +48,6 @@ function Brands(props) {
                 
                   <Button className="add-products">
                     ADD TO CART
-                  </Button>
-
-                  <Button className="add-products" onClick={()=>props.handleAddComp(items.id)} >
-                    COMPARE
                   </Button>
                 </Card.Body>
                 

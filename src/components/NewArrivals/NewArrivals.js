@@ -64,10 +64,6 @@ function NewArrivals() {
                   >
                     ADD TO CART
                   </Button>
-
-                  <Button className="add-products" >
-                    COMPARE
-                  </Button>
                 
               </Card.Body>
             </Card>
