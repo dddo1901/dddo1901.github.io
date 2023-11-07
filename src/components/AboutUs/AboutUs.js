@@ -58,7 +58,7 @@ function AboutUs() {
           </div>
           <div className="aboutus-product-featured" data-aos="fade-up">
             <p className="aboutus-product-infor">
-              Good Products At FANoFAN, we take great pride in offering a
+              Good Products At GraciousGrament, we take great pride in offering a
               diverse range of top-notch fans. Our table fans are designed with
               portability in mind, providing a convenient cooling solution for
               any room or workspace. The exhaust fans we offer are known for
