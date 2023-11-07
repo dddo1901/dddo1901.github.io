@@ -21,6 +21,16 @@ import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
 function App() {
+  const [cart, setCart] = useState([]);
+  const HandleCart = (Data) => {
+    setCart([
+      ...cart,
+      {
+        Data
+      }
+    ]);
+  };
+  
   return (
     <div>
       <div>
