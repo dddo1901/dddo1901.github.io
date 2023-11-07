@@ -9,27 +9,15 @@ import MainPagination from "../Pagination/Pagination";
 import { useEffect, useState } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import _ from "lodash";
-import { ToastContainer, toast } from "react-toastify";
 
-function Categories(Add) {
+
+function Categories() {
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
-  const notify = () =>
-    toast.success("Product successfully added", {
-      position: "top-right",
-      autoClose: 5000,
-      hideProgressBar: false,
-      closeOnClick: true,
-      pauseOnHover: true,
-      draggable: true,
-      progress: undefined,
-      theme: "light",
-    });
+
   const { id } = useParams();
   let items = Products.filter((items) => items.Category.id == id);
-  let Title = items.slice(0, 1);
   console.log(items);
 
   const ProPerPage = 8;
@@ -39,21 +27,8 @@ function Categories(Add) {
   }
   const cut = Page * ProPerPage;
   const PageCount = Math.ceil(items.length / ProPerPage);
-  const [SortData, setSortData] = useState(items);
 
-  const [sort, setSort] = useState({
-    by: "default",
-    order: "asc",
-  });
-
-  useEffect(() => {
-    if (sort.by !== "default") {
-      const Sorted = _.orderBy(items, [sort.by], [sort.order]);
-      setSortData(Sorted);
-      console.log("Sort", SortData);
-    }
-  }, [items, SortData, sort]);
-  const PageData = SortData.slice(cut, cut + ProPerPage);
+  const PageData = items.slice(cut, cut + ProPerPage);
   return (
     <Container data-aos="fade-left">
       <Row>
@@ -90,7 +65,6 @@ function Categories(Add) {
                 <Link to={`/detail/${items.id}`}>
                 <Button
                     className="add-products"
-
                   >
                     ADD TO CART
                   </Button>
@@ -99,19 +73,6 @@ function Categories(Add) {
             </Card>
           </Col>
         ))}
-        ;
-        <ToastContainer
-          position="top-right"
-          autoClose={5000}
-          hideProgressBar={false}
-          newestOnTop={false}
-          closeOnClick
-          rtl={false}
-          pauseOnFocusLoss
-          draggable
-          pauseOnHover
-          theme="light"
-        />
       </Row>
       <Row>
         <MainPagination PageCount={PageCount} HandlePage={HandlePage} />

@@ -1,6 +1,6 @@
+@import "../variables/variables.scss";
 .search {
-    z-index: 9999999;
-    float: right;
+    z-index: dex;
     .searchInputs {
         input {
             border: 0;
@@ -25,7 +25,7 @@
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         overflow: hidden;
         overflow-y: auto;
-        z-index: 99999999;
+        z-index: 14;
         &::-webkit-scrollbar {
             display: none;
         }
@@ -45,7 +45,6 @@
             }
         }
         .search-bar-results {
-
             display: flex;
 
             .dataItem-img {
@@ -72,18 +71,18 @@
     top: 5%;
     left: 50%;
     position: absolute;
-    -o-transform: translate(-50%, -50%);
-    border: 3px solid;
-    -o-border-radius: 30px;
+    transform: translate(-50%, -50%);
+    border: 3px black solid;
+    border-radius: 30px;
     transition-duration: 0.2s;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
-    border-radius: 0px;
+    -o-border-radius: 30px;
 }
 
 .textbox {
@@ -113,7 +112,6 @@
     align-items: center;
     float: right;
     text-decoration: none;
-    /* border-left: 5px black solid; */
     height: 100%;
 
     transition-duration: 0.2s;
@@ -121,7 +119,7 @@
 
 .search-btn p {
     margin: 10px;
-    color: black;
+    color: $text-color1;
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 800;
@@ -140,11 +138,11 @@
     }
 
     .search-btn:hover {
-        background-color: gray;
+        background-color: $background-color;
         transition-duration: 0.2s;
     }
     .search-btn:hover > p {
-        color: gray;
+        color: black;
         transition-duration: 0.2s;
     }
 }
