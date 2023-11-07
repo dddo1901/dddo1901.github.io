@@ -6,11 +6,20 @@ import Button from 'react-bootstrap/Button';
 import Products from "../Data.json";
 import './NewArrivals.scss';
 import { Link } from 'react-router-dom';
+import { ToastContainer,toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
+import './style.scss';
 
-function NewArrivals() {
+function NewArrivals(props) {
+
+  const item = props;
+  
   return (
     <Container fluid="md">
-      <Row>
+      <Row className="text-center mt-5 mb-3 ">
         <h1 className="newarrivals-title">New Arrivals</h1>
       </Row>
 
@@ -30,6 +39,7 @@ function NewArrivals() {
                     variant="top"
                     src={items.img1}
                     alt={items.name}
+                    data-aos="zoom-in" 
                 />
               </Link>
               <Card.Body> 
@@ -48,17 +58,33 @@ function NewArrivals() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                <Link to={`/detail/${items.id}`}>
+                
                   <Button
                     className="add-products"
                   >
                     ADD TO CART
                   </Button>
-                </Link>
+
+                  <Button className="add-products" onClick={()=>props.handleAddComp(item.id)} >
+                    COMPARE
+                  </Button>
+                
               </Card.Body>
             </Card>
           </Col>
         ))}
+        <ToastContainer
+          position="top-right"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
       </Row>
     </Container>
   )

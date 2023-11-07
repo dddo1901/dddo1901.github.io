@@ -1,0 +1,53 @@
+.containerInform{
+    position: fixed;
+    z-index: 4;
+    top: 7rem;
+    right: 2rem;
+}
+.Comp{
+    width: 17rem;
+    height: 3rem;
+    background-color: #1fc781f6;
+    margin: 5px;
+    border-radius: 7px;
+    backdrop-filter: blur(3px);
+    display: flex;
+    flex-direction: row;
+    padding: 7px;
+    align-items: center;
+    justify-content: flex-start;
+    animation: myInform 300ms ease-out;
+    h4{
+        color: #fff;
+    }
+}
+.Cart{
+    width: 17rem;
+    height: 3rem;
+    background-color: #59bfd3df;
+    margin: 5px;
+    border-radius: 7px;
+    backdrop-filter: blur(3px);
+    display: flex;
+    flex-direction: row;
+    padding: 7px;
+    align-items: center;
+    justify-content: flex-start;
+    animation: myInform 300ms ease-out;
+    h4{
+        color: #fff;
+    }
+}
+.icon-inform{
+    font-size: 1.4rem;
+    color: #fff;
+    margin: 7px;
+}
+@keyframes myInform{
+    from{
+        transform: translateX(100%);
+    }
+    to{
+        transform: translateX(0%);
+    }
+}
