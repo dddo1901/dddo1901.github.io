@@ -65,7 +65,7 @@ function NewArrivals() {
                     ADD TO CART
                   </Button>
 
-                  <Button className="add-products" onClick={()=>props.handleAddComp(item.id)} >
+                  <Button className="add-products" >
                     COMPARE
                   </Button>
                 
