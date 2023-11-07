@@ -11,7 +11,7 @@ import "aos/dist/aos.css";
 function TopSelling() {
   return (
     <Container fluid="md"data-aos="fade-up">
-      <Row>
+      <Row className="text-center mt-5 mb-3 ">
         <h1 className="newarrivals-title">Top Selling</h1>
       </Row>
 
