@@ -6,7 +6,6 @@ import Button from 'react-bootstrap/Button';
 import Products from "../Data.json";
 import './NewArrivals.scss';
 import { Link } from 'react-router-dom';
-import { ToastContainer,toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import AOS from "aos";
 import "aos/dist/aos.css";

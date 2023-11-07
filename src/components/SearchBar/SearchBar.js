@@ -35,7 +35,7 @@ function SearchBar({ placeholder, data }) {
           </p>
         </div>
       </div>
-      {filterData.length != 0 && (
+      {filterData.length !== 0 && (
         <div className="DataResult">
           {filterData.slice(0, 20).map((items, key) => {
             return (

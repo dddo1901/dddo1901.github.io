@@ -15,7 +15,7 @@ function MainPagination({ PageCount, HandlePage }) {
         nextLinkClassName="Next-content"
         pageLinkClassName="pagi-link"
         onPageChange={HandlePage}
-        pageRangeDisplayed={4}
+        pageRangeDisplayed={8}
         pageCount={PageCount}
         previousLabel="< Previous"
         previousLinkClassName="Pre-content"

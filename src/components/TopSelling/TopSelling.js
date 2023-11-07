@@ -8,11 +8,16 @@ import './TopSelling.scss';
 import { Link } from 'react-router-dom';
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { useEffect } from "react";
+
 function TopSelling() {
+  useEffect(() => {
+    AOS.init({ duration: 1700 });
+  }, []);
   return (
-    <Container fluid="md"data-aos="fade-up">
-      <Row className="text-center mt-5 mb-3 ">
-        <h1 className="newarrivals-title">Top Selling</h1>
+    <Container fluid="md" data-aos="fade-up">
+      <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
+        <h1 className="topselling-title">Top Selling</h1>
       </Row>
 
       <Row>
@@ -31,6 +36,7 @@ function TopSelling() {
                     variant="top"
                     src={items.img1}
                     alt={items.name}
+                    data-aos="zoom-in"
                 />
               </Link>
               <Card.Body> 

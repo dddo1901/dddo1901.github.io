@@ -65,7 +65,7 @@ function Footer() {
           <div>
             <ul>
               <li className="footer-about-list">
-                <Link className="footer-about-link" to="/aboutus">
+                <Link className="footer-about-link" to="/about_us">
                   About us
                 </Link>
               </li>
@@ -93,18 +93,22 @@ function Footer() {
           <div>
             <ul>
               <li className="footer-customer-list">
-                <Link className="footer-customer-link">My account</Link>
+                <Link className="footer-customer-link" to="/login" >
+                  My account
+                </Link>
               </li>
               <li className="footer-customer-list">
-                <Link className="footer-customer-link">Wishlist</Link>
+                <Link className="footer-customer-link">
+                  Wishlist
+                </Link>
               </li>
               <li className="footer-customer-list">
-                <Link className="footer-customer-link" to="/Cart">
+                <Link className="footer-customer-link">
                   ShoppingCart
                 </Link>
               </li>
               <li className="footer-customer-list">
-                <Link to="/customer" className="footer-customer-link">
+                <Link className="footer-customer-link">
                   Customer Service
                 </Link>
               </li>

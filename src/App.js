@@ -14,6 +14,7 @@ import Login from './components/Login/Login';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import ProductsComparison from './components/ProductsComparison/ProductsComparison';
+import { useState } from "react";
 import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
