@@ -12,7 +12,7 @@ function Footer() {
   }, []);
   return (
     <div className="footer">
-      <ScrollToTop smooth top="50" className="scrolling-to-top" />;
+      <ScrollToTop smooth top="50" className="scrolling-to-top" />
       <div className="footer-top" data-aos="fade-down">
         <div className="footer-logo-phone">
           <img className="footer-logo" src={Logo} alt="logo" />

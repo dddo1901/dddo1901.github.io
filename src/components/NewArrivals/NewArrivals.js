@@ -16,23 +16,12 @@ function NewArrivals() {
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
-  const notify = () =>
-    toast.success("Product successfully added", {
-      position: "top-right",
-      autoClose: 5000,
-      hideProgressBar: false,
-      closeOnClick: true,
-      pauseOnHover: true,
-      draggable: true,
-      progress: undefined,
-      theme: "light",
-    });
   return (
     <Container fluid="md">
-      <Row className="text-center mt-5 mb-3 ">
+      <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
         <h1 className="newarrivals-title">New Arrivals</h1>
       </Row>
-
+      
       <Row>
         {Products.filter((items) => {
           if (items.New === 1) {
@@ -79,18 +68,7 @@ function NewArrivals() {
             </Card>
           </Col>
         ))}
-        <ToastContainer
-          position="top-right"
-          autoClose={5000}
-          hideProgressBar={false}
-          newestOnTop={false}
-          closeOnClick
-          rtl={false}
-          pauseOnFocusLoss
-          draggable
-          pauseOnHover
-          theme="light"
-        />
+        
       </Row>
     </Container>
   )

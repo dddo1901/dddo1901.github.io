@@ -6,10 +6,11 @@ import Button from 'react-bootstrap/Button';
 import Products from "../Data.json";
 import './TopSelling.scss';
 import { Link } from 'react-router-dom';
-
+import AOS from "aos";
+import "aos/dist/aos.css";
 function TopSelling() {
   return (
-    <Container fluid="md">
+    <Container fluid="md"data-aos="fade-up">
       <Row>
         <h1 className="newarrivals-title">Top Selling</h1>
       </Row>

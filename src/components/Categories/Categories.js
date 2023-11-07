@@ -8,6 +8,7 @@ import { Link } from 'react-router-dom';
 
 
 function Categories() {
+ 
   const {id} = useParams();
   let items = Products.filter((items) => items.Category.id == id);
   console.log(items);
@@ -20,7 +21,7 @@ function Categories() {
               <Card className='card-newarrivals'>
               <Link to={`/detail/${items.id}`}>
                 <Card.Img
-                    className='img-product'
+                    className='img-product' data-aos="zoom-in"
                     variant="top"
                     src={items.img1}
                     alt={items.name}

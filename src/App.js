@@ -12,16 +12,29 @@ import ContactUs from './components/Contact/Contact';
 import CompareProducts from './components/CompareProducts/CompareProducts';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-
+import { useState } from "react";
+import "bootstrap";
+import "react-bootstrap";
 
 function App() {
+  const [cart, setCart] = useState([]);
+  const HandleCart = (Data) => {
+    setCart([
+      ...cart,
+      {
+        Data
+      }
+    ]);
+  };
   return (
     <div>
-      <Header />
+      <div>
+      <Header CartCount={cart.length} />
+      </div>
       <MainMenu />
       <Routes>
         <Route path='/' element={<Homepage/>} />
-        <Route path='/products' element={<Products/>} />
+        <Route path='/products' element={<Products Add={HandleCart}/> } />
         <Route path='/categories/:id' element={<Categories/>} />
         <Route path='/brands/:id' element={<Brands/>} />
         <Route path='/detail/:id' element={<ProductDetailPage/>} />
