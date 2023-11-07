@@ -14,7 +14,6 @@ import CompareProducts from './components/CompareProducts/CompareProducts';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import { useState } from "react";
-import './App.scss'
 import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
@@ -28,6 +27,7 @@ function App() {
       }
     ]);
   };
+  
   return (
     <div>
       <div>
