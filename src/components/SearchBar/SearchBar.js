@@ -19,6 +19,7 @@ function SearchBar({ placeholder, data }) {
         setFilterData(newFilter);
       }
     };
+
   return (
     <div className="search">
       <div className="searchInputs search-bar">
@@ -36,7 +37,7 @@ function SearchBar({ placeholder, data }) {
       </div>
       {filterData.length != 0 && (
         <div className="DataResult">
-          {filterData.slice(0, 15).map((items, key) => {
+          {filterData.slice(0, 20).map((items, key) => {
             return (
               <NavLink
                 className="dataItem"

@@ -2,10 +2,7 @@ import React from 'react';
 import NewArrivals from '../NewArrivals/NewArrivals';
 import TopSelling from '../TopSelling/TopSelling';
 import Slideshow from '../Slideshow/Slideshow';
-import { useState } from 'react';
-import ProductData from "../Data.json"
-import InformProduct from '../inform/InformProduct';
-
+import { motion } from 'framer-motion';
 
 function Homepage() {
   const [ comparison, setComparison] = useState('');
@@ -24,12 +21,16 @@ function Homepage() {
   console.log();
 
   return (
-    <div>
-      <Slideshow />
-      <NewArrivals handleAddComp={handleAddComparison}/>
-      <TopSelling handleAddComp={handleAddComparison}/>
-      <InformProduct inform={inform} setInForm={setInForm}/>
-    </div>
+    <motion.div
+    className="homepage"
+    initial={{ opacity: 0 }}
+    animate={{ opacity: 1 }}
+    exit={{ opacity: 0 }}
+  >
+      <Slideshow/>
+      <NewArrivals/>
+      <TopSelling/>
+    /</motion.div>
   )
 }
 

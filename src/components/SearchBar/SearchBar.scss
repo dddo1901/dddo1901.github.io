@@ -70,18 +70,18 @@
     top: 5%;
     left: 50%;
     position: absolute;
-    transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
     border: 3px solid;
-    border-radius: 30px;
+    -o-border-radius: 30px;
     transition-duration: 0.2s;
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
-    -o-border-radius: 30px;
+    border-radius: 0px;
 }
 
 .textbox {
