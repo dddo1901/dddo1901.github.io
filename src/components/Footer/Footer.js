@@ -75,7 +75,7 @@ function Footer() {
                 </Link>
               </li>
               <li className="footer-about-list">
-                <Link className="footer-about-link" to="/products">
+                <Link className="footer-about-link" to="/categories">
                   All items
                 </Link>
               </li>

@@ -1,5 +1,4 @@
 import { Container } from "react-bootstrap";
-import Footer from "../Footer/Footer";
 import Company from "./img-aboutus/Comapny.png";
 import CEO from "./img-aboutus/Fouder.png";
 import Vision from "./img-aboutus/vision.png";
@@ -28,7 +27,7 @@ function AboutUs() {
           </div>
           <div className="aboutus-company" data-aos="fade-up">
             <p className="aboutus-company-infor">
-              FANoFAN is a leading company in the fan industry, specializing in
+              Gracious Garments is a leading company in the fan industry, specializing in
               the production and distribution of high-quality fans. With a wide
               range of options, FANoFAN offers customers the perfect cooling
               solutions for their homes, offices, and other spaces. Whether
@@ -47,7 +46,7 @@ function AboutUs() {
               <img className="img-ceo" src={CEO} alt="ceo" />
             </div>
             <p className="aboutus-ceo-infor">
-              Founder FANoFAN was founded by Mr. John Smith, a visionary
+              Founder GraciousGrament was founded by Mr. John Smith, a visionary
               entrepreneur with a passion for innovation and a deep
               understanding of the importance of air circulation. With years of
               experience in the fan industry, Mr. Smith recognized the need for
@@ -110,7 +109,6 @@ function AboutUs() {
         </div>
       </Container>
       <div>
-        <Footer />
       </div>
     </motion.div>
   );

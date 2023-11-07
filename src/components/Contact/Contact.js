@@ -1,4 +1,4 @@
-import ".//Contact.scss"
+import "./Contact.scss"
 import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";

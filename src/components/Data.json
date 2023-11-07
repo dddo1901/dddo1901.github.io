@@ -24,7 +24,7 @@
             }
         ],
         "img1": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp",
-        "Top": 1,
+        
         "New": 2,
         "Brand": {
             "id": 3,
@@ -105,7 +105,6 @@
         ],
         "img1": "/images/Mango/Top/men/Adriana Eskenazi x Mango t-shirt/57001086_15.webp",
         "Top": 2,
-        "New": 1,
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -185,7 +184,7 @@
         ],
         "img1": "/images/Mango/Top/men/Perkins neck long-sleeved t-shirt/57077739_05.webp",
         "Top": 2,
-        "New": 1,
+        
         "Brand": {
             "id": 3,
             "name": "Mango"
@@ -224,7 +223,7 @@
             }
         ],
         "img1": "/images/Mango/Top/men/Regular fit floral print shirt/57065801_46.webp",
-        "Top": 1,
+       
         "New": 2,
         "Brand": {
             "id": 3,
@@ -2083,7 +2082,7 @@
                 "path": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09959-scaled.jpg"
             }
         ],
-        "Top": 1,
+      
         "Brand": {
             "id": 4,
             "name": "5TheWay"
@@ -4562,7 +4561,7 @@
             }
         ],
         "img1": "/images/GrimmDC/Jeans/Flex pants  Beige/01.webp",
-        "New": 1,
+      
         "Brand": {
             "id": 2,
             "name": "GimmDC"
@@ -4602,7 +4601,7 @@
             }
         ],
         "img1": "/images/GrimmDC/Jeans/Long Trousers v.3  Nottingham Black Brown Oak/01.webp",
-        "Top":1,
+      
         "Brand": {
             "id": 2,
             "name": "GimmDC"
@@ -4644,7 +4643,7 @@
             }
         ],
         "img1": "/images/GrimmDC/Jeans/rawD - The First/01.webp",
-       "New":1,
+       
         "Brand": {
             "id": 2,
             "name": "GimmDC"

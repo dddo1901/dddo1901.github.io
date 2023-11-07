@@ -1,32 +1,40 @@
-import React from 'react'
-import Logo from './Gracious Garments-logos/Gracious Garments-logos_transparent.png';
-import './Header.scss';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import SearchBar from '../SearchBar/SearchBar';
-import { Link } from 'react-router-dom';
+import { Container } from "react-bootstrap";
+import "./Header.scss";
+import Logo from "./Gracious Garments-logos/Gracious Garments-logos_transparent.png";
+import { Link } from "react-router-dom";
 
-function Header() {
+import SearchBar from "../SearchBar/SearchBar";
+
+function Header({ CartCount }) {
   return (
-    <div>
-      <Container>
-        <Row>
-          <Col>
-            <Link to={`/`}>
-              <img className='Logo' src={Logo} alt="logo" />
-            </Link>
-          </Col>
-          <Col>
+    <Container fluid="md">
+      <div className="header">
+        <div className="header-content">
+          <div className="header-left-logo">
+            <img className="header-img-logo" src={Logo} alt="logo" />
+          </div>
+
+          <div className="header-center-search">
             <SearchBar />
-          </Col>
-          <Col>
-            Cart
-          </Col>
-        </Row>
-      </Container>
-    </div>
-  )
+          </div>
+
+          <div className="header-right-cart-login">
+            <div className="header-login">
+              <Link className="link-login" to={`/login`}>
+                Log in
+              </Link>
+            </div>
+            <div className="header-cart">
+              <Link to={`/Cart`} className="link-cart">
+                <i class="fa-solid fa-cart-shopping "></i>
+              </Link>
+            </div>
+            <div className="SLCart">{CartCount}</div>
+          </div>
+        </div>
+      </div>
+    </Container>
+  );
 }
 
-export default Header
+export default Header;
