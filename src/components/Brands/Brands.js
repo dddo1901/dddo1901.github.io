@@ -7,16 +7,19 @@ import { Button } from "react-bootstrap";
 import Products from "../Data.json";
 import MainPagination from "../Pagination/Pagination";
 import { Link } from 'react-router-dom';
+import './style.scss';
 import AOS from "aos";
 import "aos/dist/aos.css";
 
 function Brands() {
+  
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
 
   const { id } = useParams();
   let items = Products.filter((items) => items.Brand.id == id);
+
   console.log(items);
 
   const ProPerPage = 8;
@@ -62,12 +65,12 @@ function Brands() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                <Link to={`/detail/${items.id}`}>
+                
                   <Button className="add-products">
                     ADD TO CART
                   </Button>
-                </Link>
                 </Card.Body>
+                
               </Card>
             </Col>
           ))}

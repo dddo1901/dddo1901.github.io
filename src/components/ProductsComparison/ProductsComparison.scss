@@ -1,0 +1,89 @@
+$border-table-color: #ffffff80;
+.productscomparison{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    min-height: 50vh ;
+    &-container{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        &-title{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            img{
+                height: 12rem;
+                width: auto;
+            }
+            h2{
+                text-align: center;
+            }
+        }
+    }
+    &-noProduct{
+        text-align: center;
+        color:#eb5241;
+        min-height:50vh;
+        img{
+            height: 12rem;
+            width: auto;
+        }
+    }
+    h2{
+        text-align: center;
+    }
+}
+.table{
+    border: 1px solid $border-table-color;
+    border-collapse:collapse;
+    text-align: left  ;
+    border-radius: 7px;
+    overflow: hidden;
+    margin: 10px;
+    
+    th{
+        border: 1px solid $border-table-color;
+        padding: 1.4rem;
+        background-color: #6c7ae0;
+        color: white;
+        margin: 2px;
+    }
+    tr{
+        border: 1px solid $border-table-color;   
+    }
+    td{
+        border: 1px solid $border-table-color; 
+        padding: 1.4rem;  
+    }
+    tr:nth-child(even) {background-color: #ffffff;}
+    tr:nth-child(odd) {background-color: #f8f6fe;}
+    img{
+        max-height: 9rem;
+        max-width: 9rem;
+        border-radius: 5px;
+        background-color: #ffffff;
+    }
+    &-remove{
+        text-align: center;
+        
+        border: none;   
+        
+        &-button{
+            height: 2rem;
+            width: 5rem;
+            border-radius: 6px;
+            outline: none;
+            border: 1px ;
+            background-color: #eb5241;
+            color: #ffffff;
+            font-weight: 600;
+        }
+    }
+}
+.price{
+    font-weight: 600;
+    font-size: 1.2rem;
+}

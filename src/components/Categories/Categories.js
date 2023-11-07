@@ -30,7 +30,7 @@ function Categories() {
 
   const PageData = items.slice(cut, cut + ProPerPage);
   return (
-    <Container data-aos="fade-left">
+    <Container data-aos="fade-left"> 
       <Row>
         {PageData.map((items, index) => (
           <Col xs={12} sm={6} md={6} lg={3} key={index}>

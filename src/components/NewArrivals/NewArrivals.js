@@ -10,6 +10,7 @@ import "react-toastify/dist/ReactToastify.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import './style.scss';
 
 function NewArrivals() {
   useEffect(() => {
@@ -56,13 +57,13 @@ function NewArrivals() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                <Link to={`/detail/${items.id}`}>
+                
                   <Button
                     className="add-products"
                   >
                     ADD TO CART
                   </Button>
-                </Link>
+                
               </Card.Body>
             </Card>
           </Col>
