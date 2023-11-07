@@ -30,7 +30,7 @@ function App() {
   }
   const handleAddComparison = (id) =>{
     if(comparison.length <= 4){
-      let newComp = ProductData.filter((item) => item.id===id)
+      let newComp = ProductData.filter((items) => items.id===id)
     setComparison((comparison)=> [...comparison, newComp[0]]) 
     } else{
       return alert("You should only choose a maximum of 5 products.")

@@ -9,11 +9,11 @@ import './style.scss';
 
 function Brands(props) {
   
-  const item = props;
   const { id } = useParams();
   let items = Products.filter((items) => items.Brand.id == id);
+
   console.log(items);
-  console.log(item);
+  console.log(props);
   return (
     <div>
      <Container>
@@ -52,7 +52,7 @@ function Brands(props) {
                     ADD TO CART
                   </Button>
 
-                  <Button className="add-products" onClick={()=>props.handleAddComp(item.id)} >
+                  <Button className="add-products" onClick={()=>props.handleAddComp(items.id)} >
                     COMPARE
                   </Button>
                 </Card.Body>
