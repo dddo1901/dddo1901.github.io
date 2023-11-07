@@ -11,17 +11,17 @@ import './MainMenu.scss';
 function MainMenu() {
   return (
     <div className="mainmenu-content">
-      <Navbar  expand="lg" className="bg-body-tertiary">
-        <Container>
+      <Navbar  expand="lg" className='me-auto'>
+        <Container className='me-auto'>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
+          <Navbar.Collapse id="basic-navbar-nav" >
             <Nav className="me-auto">
 
-              <Nav.Link href="/" className='mainmenu-item'>HOMEPAGE</Nav.Link>
+              <Nav.Link href="/" className='me-auto'>HOMEPAGE</Nav.Link>
               <NavDropdown
                     title="CATEGORIES"
                     id="basic-nav-dropdown"
-                    className="mainmenu-item"
+                    className="me-auto"
                   >
                     {Categories.map((item, index) => (
                       <NavDropdown.Item href={`/Categories/${item.id}`} key={index}>
