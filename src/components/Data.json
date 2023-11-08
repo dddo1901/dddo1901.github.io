@@ -4816,6 +4816,183 @@
             "Style": "Shirt"
         },
         "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 223,
+        "price": 59.99,
+        "name": "Checkerboard Knit Cardigan",
+        "img1": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/Checkerboard Knit Cardigan/01.png",
+        "img": [
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/Checkerboard Knit Cardigan/01.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/Checkerboard Knit Cardigan/02.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/Checkerboard Knit Cardigan/03.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/Checkerboard Knit Cardigan/04.png"
+            }
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "SWEATERS & CARDIGANS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+    {
+        "id": 224,
+        "price": 59.99,
+        "name": "DirtyCoins Print Cardigan",
+        "img": [
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan/01.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan/02.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan/03.png"
+            },
+            {
+                "path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan/04.png"
+            }
+        ],
+        "img1": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan/01.png",
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "SWEATERS & CARDIGANS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 225,
+        "price": 59.99,
+        "name": "DirtyCoins Print Cardigan - IvoryPink",
+        "img1": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan - IvoryPink/01.png",
+        "img": [
+            {"path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan - IvoryPink/01.png"},
+            {"path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan - IvoryPink/02.png"},
+            {"path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan - IvoryPink/03.png"},
+            {"path": "/images/DirtyCoins/TOP/SWEATERS & CARDIGANS/DirtyCoins Print Cardigan - IvoryPink/04.png"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "SWEATERS & CARDIGANS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 226,
+        "price": 59.99,
+        "name": "DirtyCoins Print Cardigan - IvoryPink",
+        "img1": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Polo Shirt/01.png",
+        "img": [
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Polo Shirt/01.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Polo Shirt/02.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Polo Shirt/03.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Polo Shirt/04.png"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "T-SHIRTS & POLO SHIRTS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 227,
+        "price": 59.99,
+        "name": "DirtyCoins Print Cardigan - IvoryPink",
+        "img1": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Worlds 23 Match Jersey/01.png",
+        "img": [
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Worlds 23 Match Jersey/01.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Worlds 23 Match Jersey/02.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Worlds 23 Match Jersey/03.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/[ONLINE EXCLUSIVE] DC x GAM Worlds 23 Match Jersey/04.png"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "T-SHIRTS & POLO SHIRTS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
+    },
+
+    {
+        "id": 227,
+        "price": 59.99,
+        "name": "DirtyCoins Print Cardigan - IvoryPink",
+        "img1": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/DC x BR Thương Bạn Trai T-shirt/01.png",
+        "img": [
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/DC x BR Thương Bạn Trai T-shirt/01.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/DC x BR Thương Bạn Trai T-shirt/02.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/DC x BR Thương Bạn Trai T-shirt/03.png"},
+            {"path": "/images/DirtyCoins/TOP/T-SHIRTS & POLO SHIRTS/DC x BR Thương Bạn Trai T-shirt/04.png"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "DirtyCoins"
+        },
+        "Category": {
+            "id": 1,
+            "name": "Top"
+        },
+        "Spec": {
+            "Style": "T-SHIRTS & POLO SHIRTS"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection."
     }
 
 ]

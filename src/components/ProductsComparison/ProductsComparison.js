@@ -1,22 +1,26 @@
 import React from 'react'
 import './ProductsComparison.scss'
 import imgbanner1 from '../assets/images/Comparison/banner-comparison.png'
+import { Grid, Table, Label, Item } from "semantic-ui-react";
+import ProductCard from './ProductCard';
+import { useState } from 'react';
 
-function ProductsComparison(props) {
-    let temp = props.dataComparison;
-    let handleDelitem =(id)=>{
-        props.handleDelComp(id)
+function ProductsComparison({products}) {
+
+    const [selectedItems, setSelectedItems] = useState([]);
+
+    const addToCompare = (item) => {
+        setSelectedItems((selectedItems) => [...selectedItems, item]);
+    };
+
+    const removeFromCompare = (item) => {
+        const filteredItems = selectedItems.filter(
+        (product) => product.id !== item.id
+        );
+        setSelectedItems((selectedItems) => filteredItems);
     }
-    if(temp ===''){
-        return( 
-            <div className='productscomparison-noProduct' >
-                <img src={imgbanner1} alt="bannercomp" />
-                <h3>No products. Please add products...</h3>
-                <p>*Please return to the product page and click on the Compare button to select the product to compare. You should only choose a maximum of 5 products.</p>
-            </div>
-        )
-    }else{
-        return (
+
+    return (
         <div className='productscomparison'>
             <div className='productscomparison-container'>
                 <div className='productscomparison-container-title'>
@@ -25,90 +29,66 @@ function ProductsComparison(props) {
                 </div>
                 <p>You can compare products to make the most suitable choice.</p>
                 <p>*You can only compare a maximum of <span style={{color:'red',fontWeight:'600'}}>5 products</span>. To add new products, please delete existing products in the product comparison page.</p>
-                <table className='table' >
-                    <thead> 
-                        <tr>
-                            <th>Attribute</th>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <th key={item.id}>{item.name}</th>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Brand</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index}>{item.brand.name}</td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Categories</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index}>{item.categories.name}</td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Model</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index}>{item.model}</td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Price:</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index} className='price'>{item.price}$</td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Status</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index}>{item.status}</td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Preview</td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index}>
-                                    <img src= {item.imagesPreview[0].path} alt="" />
-                                   </td>
-                                )
-                            })}
-                        </tr>
-                        <tr>
-                            <td>Dimension</td>
-                            {temp.map((item,index) =>{
-                        return(
-                            <td key={index}>Height: {item.detail.height} Width:{item.detail.width} Depth:{item.detail.depth}</td>
-                        )
-                            })}
-                        </tr>
-                        <tr>
-                            <td className='table-remove' ></td>
-                            {temp.map((item,index) =>{
-                                return(
-                                    <td key={index} className='table-remove' >
-                                        <button type="button" className='table-remove-button' 
-                                        onClick={() =>handleDelitem(item.id)} >Remove</button>
-                                    </td>
-                                )
-                            })}
-                        </tr>
-                    </thead>   
-                </table>
-            </div>
+                {selectedItems.length > 0 && (
+                    <Table definition>
+                    <Table.Header>
+                        <Table.Row>
+                        <Table.HeaderCell></Table.HeaderCell>
+                        {selectedItems.map((el) => (
+                            <Table.HeaderCell key={el.id}>{el.name}</Table.HeaderCell>
+                        ))}
+                        </Table.Row>
+                    </Table.Header>
+                    <Table.Body>
+                        <Table.Row>
+                        <Table.Cell>
+                            <Label color="orange" ribbon>
+                            Price
+                            </Label>
+                        </Table.Cell>
+                        {selectedItems.map((el) => (
+                            <Table.Cell key={el.id}>{el.price}</Table.Cell>
+                        ))}
+                        </Table.Row>
+                        <Table.Row>
+                        <Table.Cell>
+                            <Label color="teal" ribbon>
+                            Brand
+                            </Label>
+                        </Table.Cell>
+                        {selectedItems.map((el) => (
+                            <Table.Cell key={el.id}>{el.Brand.name}</Table.Cell>
+                        ))}
+                        </Table.Row>
+                        <Table.Row>
+                        <Table.Cell>
+                            <Label color="pink" ribbon>
+                            Description
+                            </Label>
+                        </Table.Cell>
+                        {selectedItems.map((el) => (
+                            <Table.Cell key={el.id}>{el.Description}</Table.Cell>
+                        ))}
+                        </Table.Row>
+                    </Table.Body>
+                    </Table>
+                )}
+            </div>       
+                <Grid columns={selectedItems.length} stackable padded divided> 
+                    <Item.Group>
+                        {products.map((item) => (
+                            <ProductCard
+                                key={item.id}
+                                item={item}
+                                selected={selectedItems}
+                                addToCompare={addToCompare}
+                                removeFromCompare={removeFromCompare}
+                            />
+                        ))}
+                    </Item.Group>
+                </Grid>
         </div>
-      )}
+    )
 }
 
 export default ProductsComparison

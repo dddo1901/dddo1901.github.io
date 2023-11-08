@@ -16,7 +16,7 @@ function TopSelling() {
   }, []);
   return (
     <Container fluid="md" data-aos="fade-up">
-      <Row data-aos="fade-right">
+      <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
         <h1 className="topselling-title">Top Selling</h1>
       </Row>
       <Row>
