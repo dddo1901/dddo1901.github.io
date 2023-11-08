@@ -15,10 +15,10 @@ import CompareProducts from './components/CompareProducts/CompareProducts';
 import ProductDetailPage from './components/ProductDetailPage/ProductDetailPage';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import ProductsComparison from './components/ProductsComparison/ProductsComparison';
-import { useState } from "react";
 import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
+
 function App() {
   const [cart, setCart] = useState([]);
   const HandleCart = (Data) => {
@@ -44,9 +44,9 @@ function App() {
         <Route path='/detail/:id' element={<ProductDetailPage/>} />
         <Route path='/compare' element={<CompareProducts/>} />
         <Route path='/products' element={<Products/>} />
-        <Route path='/categories/:id' element={<Categories />}  />
-        <Route path='/brands/:id' element={<Brands  />} />
-        <Route path='/detail/:id' element={<ProductDetailPage/>}  />
+        <Route path='/categories/:id' element={<Categories />} />
+        <Route path='/brands/:id' element={<Brands/>} />
+        <Route path='/detail/:id' element={<ProductDetailPage/>} />
         <Route path='/compare' element={<ProductsComparison />}/>
         <Route path='/contact' element={<ContactUs/>} />
         <Route path='/about_us' element={<AboutUs/>} />

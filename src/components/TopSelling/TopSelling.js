@@ -19,7 +19,6 @@ function TopSelling() {
       <Row data-aos="fade-right">
         <h1 className="topselling-title">Top Selling</h1>
       </Row>
-
       <Row>
         {Products.filter((items) => {
           if (items.Top === 1) {
@@ -49,7 +48,6 @@ function TopSelling() {
                   <Card.Text className="price-card-products">
                     ${items.price}
                   </Card.Text>
-                
                   <Card.Text className="star-card-products">
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-sharp fa-solid fa-star"></i>
