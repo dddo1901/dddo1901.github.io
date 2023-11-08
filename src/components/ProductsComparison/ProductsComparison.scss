@@ -89,8 +89,28 @@ $border-table-color: #ffffff80;
     font-size: 1.2rem;
 }
 
-.search {
-    z-index: dex;
+.searchcom {
+    display:block;
+    .searchcom-bar {
+        margin: 0;
+        padding: 0;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transform: translate(-50%, -50%);
+        border: 3px black solid;
+        border-radius: 30px;
+        transition-duration: 0.2s;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    }
     .searchInputs {
         input {
             border: 0;
@@ -151,29 +171,7 @@ $border-table-color: #ffffff80;
 #clearBtn {
     cursor: pointer;
 }
-.search-bar {
-    margin: 0;
-    padding: 0;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    top: 5%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    border: 3px black solid;
-    border-radius: 30px;
-    transition-duration: 0.2s;
-    -webkit-transform: translate(-50%, -50%);
-    -moz-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    -o-transform: translate(-50%, -50%);
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    -o-border-radius: 30px;
-}
+
 
 .textbox {
     width: 0px;
@@ -187,7 +185,6 @@ $border-table-color: #ffffff80;
     outline: none;
     height: 100%;
     float: left;
-
     transition-duration: 0.05s;
 }
 

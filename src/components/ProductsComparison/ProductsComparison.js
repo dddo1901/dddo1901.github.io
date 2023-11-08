@@ -1,12 +1,11 @@
 import React from 'react'
 import './ProductsComparison.scss'
 import imgbanner1 from '../assets/images/Comparison/banner-comparison.png'
-import { Grid, Item, Table, Label } from "semantic-ui-react";
-import Products from "../Data.json";
+import { Grid, Table, Label, Item } from "semantic-ui-react";
 import ProductCard from './ProductCard';
 import { useState } from 'react';
 
-function ProductsComparison() {
+function ProductsComparison({products}) {
 
     const [selectedItems, setSelectedItems] = useState([]);
 
@@ -16,26 +15,11 @@ function ProductsComparison() {
 
     const removeFromCompare = (item) => {
         const filteredItems = selectedItems.filter(
-        (items) => items.id !== item.id
+        (product) => product.id !== item.id
         );
         setSelectedItems((selectedItems) => filteredItems);
-    };
+    }
 
-    const [filterData, setFilterData] = useState([]);
-  
-    const handleFilter = (event) => {
-      const searchWord = event.target.value;
-      const newFilter = Products.filter((items) => {
-        return items.name.toLowerCase().includes(searchWord.toLowerCase());
-      });
-      if (searchWord === "") {
-        setFilterData([]);
-      } else {
-        setFilterData(newFilter);
-      }
-    };
-
-   
     return (
         <div className='productscomparison'>
             <div className='productscomparison-container'>
@@ -69,66 +53,42 @@ function ProductsComparison() {
                         <Table.Row>
                         <Table.Cell>
                             <Label color="teal" ribbon>
-                            Description
+                            Brand
                             </Label>
                         </Table.Cell>
                         {selectedItems.map((el) => (
-                            <Table.Cell key={el.id}>{el.description}</Table.Cell>
+                            <Table.Cell key={el.id}>{el.Brand.name}</Table.Cell>
                         ))}
                         </Table.Row>
                         <Table.Row>
                         <Table.Cell>
                             <Label color="pink" ribbon>
-                            Condition
+                            Description
                             </Label>
                         </Table.Cell>
                         {selectedItems.map((el) => (
-                            <Table.Cell key={el.id}>{el.condition}</Table.Cell>
+                            <Table.Cell key={el.id}>{el.Description}</Table.Cell>
                         ))}
                         </Table.Row>
                     </Table.Body>
                     </Table>
                 )}
-            </div>              
-            <div className="search">
-                <div className="searchInputs search-bar">
-                    <input
-                        type="text"
-                        placeholder='Enter the product'
-                        onChange={handleFilter}
-                        className="text-box"
-                        />
-                    <div className="search-icon search-btn">
-                    <p>
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                    </p>
-                </div>
-            </div>
-            {filterData.length !== 0 && (
-                <div className="DataResult">
-                {filterData.slice(0, 20).map((items, key) => {
-                    return (
-                        <Grid columns={selectedItems.length} stackable padded divided>
-                        <Item.Group>
-                            {Products.map((items) => (
-                                <ProductCard
-                                key={items.id}
-                                items={items}
+            </div>       
+                <Grid columns={selectedItems.length} stackable padded divided> 
+                    <Item.Group>
+                        {products.map((item) => (
+                            <ProductCard
+                                key={item.id}
+                                item={item}
                                 selected={selectedItems}
                                 addToCompare={addToCompare}
                                 removeFromCompare={removeFromCompare}
-                                />
-                            ))}
-                            </Item.Group>
-                            </Grid>
-                        );
-                    })}
-                    </div>
-                )}
-                </div>
-        
+                            />
+                        ))}
+                    </Item.Group>
+                </Grid>
         </div>
-        )
+    )
 }
 
 export default ProductsComparison
