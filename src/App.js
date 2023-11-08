@@ -17,7 +17,7 @@ import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
 import 'semantic-ui-css/semantic.min.css'
-import products from './components/Data.json'
+import Products from './components/Data.json'
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -41,7 +41,6 @@ function App() {
         <Route path='/categories/:id' element={<Categories/>} Add={HandleCart} />
         <Route path='/brands/:id' element={<Brands/>} />
         <Route path='/detail/:id' element={<ProductDetailPage/>} />
-        <Route path='/compare' element={<CompareProducts/>} />
         <Route path='/products' element={<Products/>} />
         <Route path='/categories/:id' element={<Categories />}  />
         <Route path='/brands/:id' element={<Brands  />} />
