@@ -7,6 +7,7 @@ import ProductCard from './ProductCard';
 import { useState } from 'react';
 
 function ProductsComparison() {
+
     const [selectedItems, setSelectedItems] = useState([]);
 
     const addToCompare = (item) => {
@@ -19,16 +20,23 @@ function ProductsComparison() {
         );
         setSelectedItems((selectedItems) => filteredItems);
     };
-    if(selectedItems ===''){
-        return( 
-            <div className='productscomparison-noProduct' >
-                <img src={imgbanner1} alt="bannercomp" />
-                <h3>No products. Please add products...</h3>
-                <p>*Please return to the product page and click on the Compare button to select the product to compare. You should only choose a maximum of 5 products.</p>
-            </div>
-        )
-        }else{
-        return (
+
+    const [filterData, setFilterData] = useState([]);
+  
+    const handleFilter = (event) => {
+      const searchWord = event.target.value;
+      const newFilter = Products.filter((items) => {
+        return items.name.toLowerCase().includes(searchWord.toLowerCase());
+      });
+      if (searchWord === "") {
+        setFilterData([]);
+      } else {
+        setFilterData(newFilter);
+      }
+    };
+
+   
+    return (
         <div className='productscomparison'>
             <div className='productscomparison-container'>
                 <div className='productscomparison-container-title'>
@@ -82,21 +90,45 @@ function ProductsComparison() {
                     </Table>
                 )}
             </div>              
-        <Grid columns={selectedItems.length} stackable padded divided>
-            <Item.Group>
-            {Products.map((items) => (
-                <ProductCard
-                key={items.id}
-                items={items}
-                selected={selectedItems}
-                addToCompare={addToCompare}
-                removeFromCompare={removeFromCompare}
-                />
-            ))}
-            </Item.Group>
-        </Grid>
+            <div className="search">
+                <div className="searchInputs search-bar">
+                    <input
+                        type="text"
+                        placeholder='Enter the product'
+                        onChange={handleFilter}
+                        className="text-box"
+                        />
+                    <div className="search-icon search-btn">
+                    <p>
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </p>
+                </div>
+            </div>
+            {filterData.length !== 0 && (
+                <div className="DataResult">
+                {filterData.slice(0, 20).map((items, key) => {
+                    return (
+                        <Grid columns={selectedItems.length} stackable padded divided>
+                        <Item.Group>
+                            {Products.map((items) => (
+                                <ProductCard
+                                key={items.id}
+                                items={items}
+                                selected={selectedItems}
+                                addToCompare={addToCompare}
+                                removeFromCompare={removeFromCompare}
+                                />
+                            ))}
+                            </Item.Group>
+                            </Grid>
+                        );
+                    })}
+                    </div>
+                )}
+                </div>
+        
         </div>
         )
-}}
+}
 
 export default ProductsComparison
