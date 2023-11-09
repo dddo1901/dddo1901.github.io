@@ -35,9 +35,9 @@ function Brands() {
     <div>
      <Container data-aos="fade-left">
       <Row data-aos="fade-left">
-          {Title.map((item, index) => (
-            <div className="brand-title" key={index}>
-              {item.Brand.name}
+          {Title.map((items, index) => (
+            <div className='brand-title1' key={index} data-aos="fade-right">
+              <img className='brand-title' src={items.imgbrand} alt='' />
             </div>
           ))}
       </Row>

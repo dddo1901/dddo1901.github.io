@@ -24,7 +24,7 @@
             }
         ],
         "img1": "/images/Mango/Top/men/Cotton short-sleeved printed shirt/57015791_52.webp",
-        
+        "imgbrand": "/logo/Mango-logo1.png",
         "New": 2,
         "Brand": {
             "id": 3,
@@ -2136,7 +2136,7 @@
                 "path": "/images/Fiftheway/bottom/men/Mens Elastic Waist Jeans/DSC09959-scaled.jpg"
             }
         ],
-      
+        "imgbrand": "/logo/5theway.png",
         "Brand": {
             "id": 4,
             "name": "5TheWay"
@@ -2974,6 +2974,7 @@
                 "path": "/images/DirtyCoins/BAGS/Canvas Cross Bag - Black - DirtyCoins/Screenshot 2023-10-19 195607.png"
             }
         ],
+        "imgbrand": "/logo/Dirtycoin.png",
         "Top": 2,
         "New": 2,
         "Brand": {
@@ -3164,6 +3165,7 @@
             }
         ],
         "img1": "/images/GrimmDC/T-Shirt/1/01.webp",
+        "imgbrand": "/logo/grimmdc.png",
         "Brand": {
             "id": 2,
             "name": "GimmDC"
