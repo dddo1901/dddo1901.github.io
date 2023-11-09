@@ -2,7 +2,7 @@ import { Container } from "react-bootstrap";
 import Company from "./img-aboutus/Comapny.png";
 import CEO from "./img-aboutus/Fouder.png";
 import Vision from "./img-aboutus/vision.png";
-import Product from "./img-aboutus/product.png";
+import Product from "./img-aboutus/product.webp";
 import "./AboutUs.scss";
 import { motion } from "framer-motion";
 import AOS from "aos";
@@ -23,19 +23,18 @@ function AboutUs() {
       <Container fluid="lg">
         <div className="aboutus-content">
           <div className="aboutus-title" data-aos="fade-right">
-            <h1>FANoFAN - Your Choice For Your Home</h1>
+            <h1>Who we are</h1>
           </div>
           <div className="aboutus-company" data-aos="fade-up">
             <p className="aboutus-company-infor">
-              Gracious Garments is a leading company in the fan industry, specializing in
-              the production and distribution of high-quality fans. With a wide
-              range of options, FANoFAN offers customers the perfect cooling
-              solutions for their homes, offices, and other spaces. Whether
-              you're looking for a compact table fan, a powerful exhaust fan, or
-              an elegant ceiling fan, FANoFAN has got you covered. Our fans are
-              designed to provide optimal airflow, durability, and energy
-              efficiency, ensuring the utmost comfort and satisfaction for our
-              valued customers.
+            Gracious Garments is a clothing company that offers high-quality, stylish, and affordable 
+            apparel for men, women, and children. We are based in Ho Chi Minh City, Vietnam, and we ship our products worldwide. 
+            Our mission is to provide our customers with a gracious and satisfying shopping experience, from browsing our online 
+            catalog to receiving their orders at their doorstep. We believe that everyone deserves to look and feel good, no matter their budget, 
+            size, or taste. That’s why we offer a wide range of clothing options, from casual to formal, from classic to trendy, from basic to bold. 
+            Whether you need a new outfit for work, a special occasion, or just for fun, we have something for you at Gracious Garments. We also care about 
+            the environment and the people who make our clothes. We use eco-friendly materials and practices, and we ensure fair wages and working conditions 
+            for our suppliers and employees. We are proud to be a socially responsible and ethical business, and we hope to inspire others to do the same. 
             </p>
             <div className="aboutus-img-company" data-aos="zoom-in">
               <img className="img-company" src={Company} alt="company" />
@@ -51,7 +50,7 @@ function AboutUs() {
               understanding of the importance of air circulation. With years of
               experience in the fan industry, Mr. Smith recognized the need for
               reliable and efficient fans that cater to a wide range of customer
-              preferences. Through his leadership and dedication, FANoFAN has
+              preferences. Through his leadership and dedication, we has
               grown into a reputable brand known for its exceptional products
               and customer-centric approach.
             </p>
@@ -65,8 +64,8 @@ function AboutUs() {
               their powerful performance and effective ventilation, ensuring
               fresh and clean air in any environment. For those seeking elegance
               and superior airflow, our ceiling fans are crafted with precision
-              and style. With FANoFAN, you can trust that you're getting
-              high-quality fans that are built to last.
+              and style. With us, you can trust that you're getting
+              high-quality cloths that are built to last.
             </p>
             <div className="aboutus-img-product" data-aos="fade-left">
               <img className="img-product" src={Product} alt="product" />
@@ -77,14 +76,14 @@ function AboutUs() {
               <img className="img-vision" src={Vision} alt="vision" />
             </div>
             <p className="aboutus-vision-infor">
-              Vision of the Company Our vision at FANoFAN is to become the go-to
+              Vision of the Company Our vision at  is to become the go-to
               brand for all fan-related needs, providing exceptional products
               and unparalleled customer service. We strive to continuously
               innovate and improve our offerings, staying ahead of the curve in
               terms of technology and design. Our aim is to create a comfortable
               and refreshing environment for our customers, enhancing their
               overall well-being and satisfaction. We are committed to
-              delivering excellence and ensuring that FANoFAN remains synonymous
+              delivering excellence and ensuring that GraciousGrament remains synonymous
               with quality and reliability.
             </p>
           </div>

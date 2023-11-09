@@ -7,7 +7,6 @@ import Brands from '../Brands/Brands.json';
 import Categories from '../Categories/Categories.json';
 import './MainMenu.scss';
 
-
 function MainMenu() {
   return (
     <div className="mainmenu-content">
