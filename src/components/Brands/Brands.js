@@ -7,7 +7,7 @@ import { Button } from "react-bootstrap";
 import Products from "../Data.json";
 import MainPagination from "../Pagination/Pagination";
 import { Link } from 'react-router-dom';
-import './style.scss';
+import './Brand.scss';
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -19,7 +19,7 @@ function Brands() {
 
   const { id } = useParams();
   let items = Products.filter((items) => items.Brand.id == id);
-
+  let Title = items.slice(0, 1);
   console.log(items);
 
   const ProPerPage = 8;
@@ -29,12 +29,18 @@ function Brands() {
   }
   const cut = Page * ProPerPage;
   const PageCount = Math.ceil(items.length / ProPerPage);
-
   const PageData = items.slice(cut, cut + ProPerPage);
 
   return (
     <div>
      <Container data-aos="fade-left">
+      <Row data-aos="fade-left">
+          {Title.map((item, index) => (
+            <div className="brand-title" key={index}>
+              {item.Brand.name}
+            </div>
+          ))}
+      </Row>
       <Row>
         {PageData.map((items, index) => (
             <Col xs={12} sm={6} md={6} lg={3} key={index}>

@@ -9,6 +9,7 @@ import MainPagination from "../Pagination/Pagination";
 import { useEffect, useState } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import './Category.scss';
 
 
 function Categories() {
@@ -18,6 +19,7 @@ function Categories() {
 
   const { id } = useParams();
   let items = Products.filter((items) => items.Category.id == id);
+  let Title = items.slice(0, 1);
   console.log(items);
 
   const ProPerPage = 8;
@@ -31,6 +33,13 @@ function Categories() {
   const PageData = items.slice(cut, cut + ProPerPage);
   return (
     <Container data-aos="fade-left"> 
+      <Row data-aos="fade-left">
+          {Title.map((item, index) => (
+            <div className="categories-title" key={index}>
+              {item.Category.name}
+            </div>
+          ))}
+      </Row>
       <Row>
         {PageData.map((items, index) => (
           <Col xs={12} sm={6} md={6} lg={3} key={index}>
