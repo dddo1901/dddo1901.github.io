@@ -1,12 +1,11 @@
 import React from 'react'
-import { Col } from "react-bootstrap";
 import { Item, Button } from "semantic-ui-react";
 
-function ProductCard(item, selected, removeFromCompare, addToCompare) {
+function ProductCard({item, selected, removeFromCompare, addToCompare}) {
   return (
     <div>
-    <Col xs={12} sm={6} md={6} lg={3}>
-        <Item key={item.name}>
+    
+        <Item key={item.id}>
             <Item.Image size="small" src={item.img1} />
                 <Item.Content verticalAlign="middle">
                     <Item.Header>{item.name}</Item.Header>
@@ -24,7 +23,7 @@ function ProductCard(item, selected, removeFromCompare, addToCompare) {
                     </Item.Extra>
             </Item.Content>
         </Item>
-    </Col>
+    
   </div>
   )
 }

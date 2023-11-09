@@ -1,9 +1,10 @@
 import React from 'react'
 import './ProductsComparison.scss'
 import imgbanner1 from '../assets/images/Comparison/banner-comparison.png'
-import { Grid, Table, Label, Item } from "semantic-ui-react";
+import { Table, Label, Item } from "semantic-ui-react";
 import ProductCard from './ProductCard';
 import { useState } from 'react';
+import { Col } from 'react-bootstrap';
 
 function ProductsComparison({products}) {
 
@@ -74,7 +75,7 @@ function ProductsComparison({products}) {
                     </Table>
                 )}
             </div>       
-                <Grid columns={selectedItems.length} stackable padded divided> 
+                <Col xs={12} sm={6} md={6} lg={3}> 
                     <Item.Group>
                         {products.map((item) => (
                             <ProductCard
@@ -86,7 +87,7 @@ function ProductsComparison({products}) {
                             />
                         ))}
                     </Item.Group>
-                </Grid>
+                </Col>
         </div>
     )
 }
