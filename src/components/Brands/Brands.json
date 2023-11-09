@@ -1,25 +1,21 @@
 [
     {
         "id" : 1,
-        "name" : "DirtyCoins",
-        "images": "/logo/dirtycoins-removebg.png"
+        "name" : "DirtyCoins"
     },
 
     {
         "id" : 2,
-        "name" : "Grimm DC",
-        "images": "/logo/gimmdc-removebg.png"
+        "name" : "Grimm DC"
     },
 
     {
         "id" : 3,
-        "name" : "Mango",
-        "images": "/logo/Mango-removebg.png"
+        "name" : "Mango"
     },
 
     {
         "id" : 4,
-        "name" : "5TheWay",
-        "images": "/logo/5theway-removebg.png"
+        "name" : "5TheWay"
     }
 ]
