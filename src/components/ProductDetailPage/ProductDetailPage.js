@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-//*import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import './ProductDetaiPage.scss'
 import { useParams } from 'react-router-dom'
 import Products from '../Data.json'
@@ -59,23 +59,21 @@ function ProductDetailPage({handleCarts}) {
           <h2>{item[0].name}</h2>
           <h4>Design by {item[0].Brand.name}</h4>
           <h5>Type: {item[0].Category.name}</h5>        
-        
-            <h2>Price: {item[0].price} $</h2>
-              <div className='content-bar-numbers'>
-                <button onClick={()=> handleSub()}><h4>-</h4></button>
-                <h4>{numberProduct}</h4>
-                <button onClick={()=> handleAdd()}><h4>+</h4></button>
-              </div>
-              <div className='content-bar-Add'>
-                <button onClick={()=> handleAddCart()}>
-                  <i className="fa-solid fa-cart-plus iconAdd"></i>
-                </button>
-              </div>
-
-          </div>
-          {/*<Link to={item[0].files} target="_blank" download>Download Information Product &emsp;
-          <i className="fa-solid fa-download"></i>
-        </Link>*/}
+          <h2>Price: {item[0].price} $</h2>
+        <div className='content-bar-numbers'>
+          <button onClick={()=> handleSub()}><h4>-</h4></button>
+          <h4>{numberProduct}</h4>
+          <button onClick={()=> handleAdd()}><h4>+</h4></button>
+        </div>
+        <div className='content-bar-Add'>
+          <button onClick={()=> handleAddCart()}>
+          <i className="fa-solid fa-cart-plus iconAdd"></i>
+          </button>
+        </div>
+        <Link to={item[0].File} target="_blank" download>Download Information Product &emsp;
+            <i className="fa-solid fa-download"></i>
+        </Link>
+        </div>
         </div>
         <div className='about-product'>
           <h2>About Product</h2>
