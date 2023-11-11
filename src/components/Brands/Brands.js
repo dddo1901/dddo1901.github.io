@@ -71,12 +71,12 @@ function Brands() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                
-                  <Button className="add-products">
-                    ADD TO CART
-                  </Button>
+                  <Link to={`/detail/${items.id}`}>
+                    <Button className="add-products">
+                      DETAIL
+                    </Button>
+                  </Link>
                 </Card.Body>
-                
               </Card>
             </Col>
           ))}
