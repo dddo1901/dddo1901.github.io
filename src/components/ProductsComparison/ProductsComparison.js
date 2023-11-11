@@ -3,6 +3,7 @@ import './ProductsComparison.scss'
 import imgbanner1 from '../assets/images/Comparison/banner-comparison.png'
 import { Table, Label } from "semantic-ui-react";
 import ProductCard from './ProductCard';
+import MainPagination from "../Pagination/Pagination";
 import { useState } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 
@@ -20,6 +21,15 @@ function ProductsComparison({products}) {
         );
         setSelectedItems((selectedItems) => filteredItems);
     }
+
+    const ProPerPage = 8;
+    const [Page, setPage] = useState(0);
+    function HandlePage({ selected: select }) {
+        setPage(select);
+    }
+    const cut = Page * ProPerPage;
+    const PageCount = Math.ceil(products.length / ProPerPage);
+    const PageData = products.slice(cut, cut + ProPerPage);
 
     return (
         <Container fluid="md">
@@ -79,7 +89,7 @@ function ProductsComparison({products}) {
             </Row>
          
             <Row>   
-                {products.map((item) => (
+                {PageData.map((item) => (
                     <Col xs={12} sm={6} md={6} lg={3} key={item.id}> 
                         <ProductCard
                             item={item}
@@ -91,6 +101,9 @@ function ProductsComparison({products}) {
                     </Col>
                 ))}
             </Row> 
+            <Row>
+                <MainPagination PageCount={PageCount} HandlePage={HandlePage} />
+            </Row>
     </Container>
     )
 }

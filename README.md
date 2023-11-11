@@ -18,7 +18,7 @@
   GRACIOUS GARMENTS is selling various types of GARMENTS for both MEN and WOMEN. The company advertises by distributing the pamphlets, advertising on television and so on. Due to rapid development in internet field, the company decides to launch a website where people will get all the information about the various products available with them easily.
   <br  />
   <a  href="https://github.com/dddo1901/dddo1901.github.io.git"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/dddo1901/dddo1901.github.io/tree/9c827cf2292d6eea9902300876e858eb637e9eaa/documents" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/dddo1901/dddo1901.github.io/tree/e95ccdc67ab984efcd0fc49403cab07af0b92a76/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
   <br  /><a  href="https://dddo1901-github-io-git-main-doanducdos-projects.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
 
