@@ -11,7 +11,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import './Category.scss';
 
-
 function Categories() {
   useEffect(() => {
     AOS.init({ duration: 1700 });
