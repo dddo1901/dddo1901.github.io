@@ -30,6 +30,7 @@ function Categories() {
   const cut = Page * ProPerPage;
   const PageCount = Math.ceil(items.length / ProPerPage);
   const PageData = items.slice(cut, cut + ProPerPage);
+  
   return (
     <Container data-aos="fade-left"> 
       <Row data-aos="fade-left">
