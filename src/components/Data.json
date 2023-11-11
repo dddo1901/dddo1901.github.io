@@ -3800,19 +3800,19 @@
         "name": "Monogram",
         "img": [
             {
-                "path": "/images/GrimmDC/T-Shirt2/Monogram/01.webp"
+                "path": "/images/GrimmDC/T-Shirt2/monogram/01.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/Monogram/02.webp"
+                "path": "/images/GrimmDC/T-Shirt2/monogram/02.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/Monogram/03.webp"
+                "path": "/images/GrimmDC/T-Shirt2/monogram/03.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/Monogram/04.webp"
+                "path": "/images/GrimmDC/T-Shirt2/monogram/04.webp"
             }
         ],
-        "img1": "/images/GrimmDC/T-Shirt2/Monogram/01.webp",
+        "img1": "/images/GrimmDC/T-Shirt2/monogram/01.webp",
         "Top": 1,
         "Brand": {
             "id": 2,
