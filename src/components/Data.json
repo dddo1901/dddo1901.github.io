@@ -3834,25 +3834,25 @@
         "name": "The Path",
         "img": [
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/01.webp"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/01.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/02.webp"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/02.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/03.jpg"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/03.jpg"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/04.webp"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/04.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/05.webp"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/05.webp"
             },
             {
-                "path": "/images/GrimmDC/T-Shirt2/The Path/06.webp"
+                "path": "/images/GrimmDC/T-Shirt2/the Path/06.webp"
             }
         ],
-        "img1": "/images/GrimmDC/T-Shirt2/The Path/01.webp",
+        "img1": "/images/GrimmDC/T-Shirt2/the Path/01.webp",
         "Brand": {
             "id": 2,
             "name": "GimmDC"
@@ -3951,25 +3951,25 @@
         "name": "Christmas Pine",
         "img": [
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/01.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/01.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/02.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/02.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/03.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/03.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/04.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/04.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/05.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/05.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/Christmas Pine/06.webp"
+                "path": "/images/GrimmDC/Shirt/christmas Pine/06.webp"
             }
         ],
-        "img1": "/images/GrimmDC/Shirt/Christmas Pine/01.webp",
+        "img1": "/images/GrimmDC/Shirt/christmas Pine/01.webp",
         "Brand": {
             "id": 2,
             "name": "GimmDC"
@@ -4108,25 +4108,25 @@
         "name": "New York-Metal gray",
         "img": [
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/01.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/01.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/02.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/02.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/03.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/03.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/04.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/04.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/05.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/05.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York-Metal gray/06.webp"
+                "path": "/images/GrimmDC/Shirt/new York-Metal gray/06.webp"
             }
         ],
-        "img1": "/images/GrimmDC/Shirt/New York-Metal gray/01.webp",
+        "img1": "/images/GrimmDC/Shirt/new York-Metal gray/01.webp",
         "Brand": {
             "id": 2,
             "name": "GimmDC"
@@ -4147,25 +4147,25 @@
         "name": "New York  Winter White",
         "img": [
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/01.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/01.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/02.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/02.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/03.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/03.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/04.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/04.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/05.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/05.webp"
             },
             {
-                "path": "/images/GrimmDC/Shirt/New York  Winter White/06.webp"
+                "path": "/images/GrimmDC/Shirt/New York  Winter white/06.webp"
             }
         ],
-        "img1": "/images/GrimmDC/Shirt/New York  Winter White/01.webp",
+        "img1": "/images/GrimmDC/Shirt/New York  Winter white/01.webp",
         "Brand": {
             "id": 2,
             "name": "GimmDC"
