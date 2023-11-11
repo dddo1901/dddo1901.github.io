@@ -4068,7 +4068,7 @@
         "name": "New York-Latte beige",
         "img": [
             {
-                "path": "/images/GrimmDC/Shirt/new york-latte beige/01.jpg"
+                "path": "/images/GrimmDC/Shirt/new york-latte beige/01.webp"
             },
             {
                 "path": "/images/GrimmDC/Shirt/new york-latte beige/02.webp"
@@ -4086,7 +4086,7 @@
                 "path": "/images/GrimmDC/Shirt/new york-latte beige/06.webp"
             }
         ],
-        "img1": "/images/GrimmDC/Shirt/new york-latte beige/01.jpg",
+        "img1": "/images/GrimmDC/Shirt/new york-latte beige/01.webp",
         "New": 1,
         "Brand": {
             "id": 2,
