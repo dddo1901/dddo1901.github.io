@@ -22,7 +22,7 @@ function Categories() {
   console.log(items);
 
   const ProPerPage = 8;
-  const [Page, setPage] = useState(1);
+  const [Page, setPage] = useState(0);
   function HandlePage({ selected: select }) {
     setPage(select);
   }
