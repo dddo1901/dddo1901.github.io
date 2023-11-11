@@ -22,7 +22,7 @@
 
   <br  /><a  href="https://dddo1901-github-io-git-main-doanducdos-projects.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
 
-<img  src="https://github.com/dddo1901/dddo1901.github.io/blob/8ad19259a118822e365381a0b44aeb2533697124/src/components/assets/images/GRACOIUS_GRAMENTS_vercel.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/dddo1901/dddo1901.github.io/blob/fa834706c17b17690f1583569f9829d80d726fd4/src/components/assets/images/GRACOIUS_GRAMENTS_vercel.png"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
