@@ -1,5 +1,5 @@
 import ReactPaginate from "react-paginate";
-import "./Pagination .scss";
+import "./Pagination.scss";
 
 function MainPagination({ PageCount, HandlePage }) {
   return (
