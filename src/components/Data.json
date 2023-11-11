@@ -5243,12 +5243,12 @@
     {
         "id": 143,
         "price": 59.99,
-        "name": "Padded case",
-        "img1": "/images/Mango/accessories/Padded case/57085807_85_B.webp",
+        "name": "Wallet with printed logo",
+        "img1": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_B.webp",
         "img": [
-            {"path": "/images/Mango/accessories/Padded case/57085807_85_B.webp"},
-            {"path": "/images/Mango/accessories/Padded case/57085807_85_D1.jpg"},
-            {"path": "/images/Mango/accessories/Padded case/57085807_85.webp"}
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D1.webp"},
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp"},
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU.jpg"}
         ],
         "Top": 2,
         "New": 2,
