@@ -18,11 +18,10 @@
   GRACIOUS GARMENTS is selling various types of GARMENTS for both MEN and WOMEN. The company advertises by distributing the pamphlets, advertising on television and so on. Due to rapid development in internet field, the company decides to launch a website where people will get all the information about the various products available with them easily.
   <br  />
   <a  href="https://github.com/dddo1901/dddo1901.github.io.git"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/dddo1901/dddo1901.github.io.git/tree/0bdf01110342da7cd513cae701f6f8eed61816cd/documents" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/dddo1901/dddo1901.github.io/tree/9c827cf2292d6eea9902300876e858eb637e9eaa/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://e-project-fpt-aptech-group1-durable-furniture.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
+  <br  /><a  href="https://dddo1901-github-io-git-main-doanducdos-projects.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
@@ -40,16 +39,16 @@
 ### Features </br>
 <ol>
 <li>
-The Home Page should be created making use of Sections with a suitable logo.</br>
+The Home Page should be created with proper sections, graphics and with a suitable logo.</br>
 </li>
 <li>
-Home Page should contain details of furniture’s and home decors with suitable images. </br>
+Home Page should contain details of different Garments with suitable images.  </br>
 </li>
 <li>
-The site should display a menu which will contain the options for brief introduction about the various furniture’s available, location of the shop and any other information if required.</br>
+The site should display a menu which will contain the options for brief introduction about the various garments available, location of the shop and any other information if required.</br>
 </li>
 <li>
-The information should be categorized according to the brand names of the products like if a User wants to see only “DURIAN” products or any other companies products then he/she can click on a Link/button/menu etc and can see only that Brand products.</br>
+The information should be categorized according to the brand names of the products like if a User wants to see only “Van Heusen” products or any other companies products then he/she can click on a Link/button/menu etc and can see only that Brand products.</br>
 </li>
 <li>
 When a user selects any particular brand, a list of products for that brand will be displayed</br>
@@ -61,15 +60,15 @@ A brief summary of features of individual products should be displayed on the We
 The user should also be able to compare the various products of different as well as similar brands.</br>
 </li>
 <li>
-There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email. Address of the Company should be displayed using GeoLocation API (eg. GoogleMaps).</br>
+There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email.</br>
 </ol>
 
  ## Members of group
- ### Leader : Nguyen Duc Linh `Student1477171`
+ ### Leader : Du Han Huy `Student1491726`
 #### Members:
-Trần Nhựt Huy `Student1477551` </br>
-Nguyễn Anh Vũ `Student1477471` </br>
-Trần Việt Khôi `Student1477470` </br>
+Le Hoang Long `Student1491740` </br>
+Doan Duc Do `Student1491746` </br>
+
 
 
 
