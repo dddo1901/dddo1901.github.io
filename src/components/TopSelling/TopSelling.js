@@ -57,7 +57,7 @@ function TopSelling() {
                   </Card.Text>
                 <Link to={`/detail/${items.id}`}>
                   <Button className="add-products">
-                    ADD TO CART
+                   DETAIL
                   </Button>
                 </Link>
               </Card.Body>

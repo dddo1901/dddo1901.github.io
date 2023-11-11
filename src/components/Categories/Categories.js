@@ -71,10 +71,8 @@ function Categories() {
                   <i class="fa-solid fa-star-half-stroke"></i>
                 </Card.Text>
                 <Link to={`/detail/${items.id}`}>
-                <Button
-                    className="add-products"
-                  >
-                    ADD TO CART
+                  <Button className="add-products">
+                   DETAIL
                   </Button>
                 </Link>
               </Card.Body>

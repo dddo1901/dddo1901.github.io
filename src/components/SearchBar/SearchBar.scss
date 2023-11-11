@@ -29,6 +29,10 @@
         &::-webkit-scrollbar {
             display: none;
         }
+        .search-bar-img{
+            height: 50px;
+            width: auto;
+        }
         .dataItem {
             text-decoration: none;
             width: 100%;
@@ -40,6 +44,7 @@
             .dataItem-text {
                 margin-left: 10px;
             }
+
             &:hover {
                 background-color: gray;
             }
@@ -83,6 +88,7 @@
     -moz-border-radius: 30px;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
+    
 }
 
 .textbox {
