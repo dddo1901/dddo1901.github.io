@@ -21,7 +21,6 @@ function NewArrivals() {
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
         <h1 className="newarrivals-title">New Arrivals</h1>
       </Row>
-      
       <Row>
         {Products.filter((items) => {
           if (items.New === 1) {
@@ -57,7 +56,6 @@ function NewArrivals() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                
                   <Button className="add-products">
                     ADD TO CART
                   </Button>
