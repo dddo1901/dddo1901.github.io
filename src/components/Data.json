@@ -5133,5 +5133,164 @@
         },
         "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
         "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 139,
+        "price": 59.99,
+        "name": "Anti-contactless leather-effect card holder",
+        "img1": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99.webp",
+        "img": [
+            {"path": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_B.webp"},
+            {"path": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99_D1.webp"},
+            {"path": "/images/Mango/accessories/Anti-contactless leather-effect card holder/57010807_99.webp"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 140,
+        "price": 59.99,
+        "name": "Crocodile wallet with logo",
+        "img1": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_B.webp",
+        "img": [
+            {"path": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_B.webp"},
+            {"path": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_D1.webp"},
+            {"path": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99_D2.webp"},
+            {"path": "/images/Mango/accessories/Crocodile wallet with logo/57000261_99.webp"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 141,
+        "price": 59.99,
+        "name": "Anti-contactless wallet",
+        "img1": "/images/Mango/accessories/Anti-contactless wallet/57040794_30.jpg",
+        "img": [
+            {"path": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_B.webp.webp"},
+            {"path": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D1.webp"},
+            {"path": "/images/Mango/accessories/Anti-contactless wallet/57040794_30_D2.webp"},
+            {"path": "/images/Mango/accessories/Anti-contactless wallet/57040794_30.jpg"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 142,
+        "price": 59.99,
+        "name": "Padded case",
+        "img1": "/images/Mango/accessories/Padded case/57085807_85_B.webp",
+        "img": [
+            {"path": "/images/Mango/accessories/Padded case/57085807_85_B.webp"},
+            {"path": "/images/Mango/accessories/Padded case/57085807_85_D1.jpg"},
+            {"path": "/images/Mango/accessories/Padded case/57085807_85.webp"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 143,
+        "price": 59.99,
+        "name": "Wallet with printed logo",
+        "img1": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_B.webp",
+        "img": [
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D1.webp"},
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU_D2.webp"},
+            {"path": "/images/Mango/accessories/Wallet with printed logo/57053813_CU.jpg"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
+    },
+    {
+        "id": 144,
+        "price": 59.99,
+        "name": "Textured card holder",
+        "img1": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_B.webp",
+        "img": [
+            {"path": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_D1.webp"},
+            {"path": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_D2.webp"},
+            {"path": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02_D3.webp"},
+            {"path": "/images/Mango/accessories/Textured card holder with embossed logo/57067124_02.jpg"}
+        ],
+        "Top": 2,
+        "New": 2,
+        "Brand": {
+            "id": 1,
+            "name": "Mango"
+        },
+        "Category": {
+            "id": 4,
+            "name": "Accessories"
+        },
+        "Spec": {
+            "Style": "Wallets"
+        },
+        "Description": "Linen fabric. Slim fit. Light fabric. Henley collar. Rounded neck. Short sleeve. Straight hem. Basics Collection.",
+        "File": "/Data/ProductDetail.docx"
     }
 ]

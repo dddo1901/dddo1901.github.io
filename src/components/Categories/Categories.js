@@ -11,7 +11,6 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import './Category.scss';
 
-
 function Categories() {
   useEffect(() => {
     AOS.init({ duration: 1700 });
@@ -30,6 +29,7 @@ function Categories() {
   const cut = Page * ProPerPage;
   const PageCount = Math.ceil(items.length / ProPerPage);
   const PageData = items.slice(cut, cut + ProPerPage);
+  
   return (
     <Container data-aos="fade-left"> 
       <Row data-aos="fade-left">
