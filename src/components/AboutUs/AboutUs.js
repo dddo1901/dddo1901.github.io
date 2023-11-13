@@ -99,7 +99,7 @@ function AboutUs() {
                 Customer Service: Our dedicated customer service team is
                 available to assist you with any inquiries or concerns you may
                 have. You can reach them by phone or email, and they will be
-                more than happy to help. We hope this information about FANoFAN
+                more than happy to help. We hope this information about GraciousGrament
                 fulfills your request. Feel free to let us know if there's
                 anything else we can assist you with.
               </li>

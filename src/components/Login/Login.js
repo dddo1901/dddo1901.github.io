@@ -51,7 +51,7 @@ function Login({ Validation }) {
         <div>
           <img
             className="img-login"
-            src="https://i.pinimg.com/564x/7c/6d/92/7c6d92ff2126784c46e0b0b9dcd4b43b.jpg"
+            src="https://media.giphy.com/media/jqAqG0kwZpTHUIqRJq/giphy.gif"
             alt=""
           />
         </div>
