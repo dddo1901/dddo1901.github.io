@@ -33,7 +33,7 @@ function ProductDetailPage({ Add }) {
   
   const [numberProduct, setNumberProduct] = useState(1);
   useEffect(() => {
-    window.scrollTo(0, 0);
+    window.scrollTo(10, 0);
   }, []);
   let handleAdd = () => {
     setNumberProduct(numberProduct + 1);
@@ -82,6 +82,7 @@ function ProductDetailPage({ Add }) {
             <Button
               className="buttonAdd text-center"
               onClick={() => notify(Add(item[0], 1))}
+
             >
               ADD TO CART
             </Button>

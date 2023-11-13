@@ -3,9 +3,10 @@ import './SearchBar.scss';
 import Products from "../Data.json";
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 
-function SearchBar({ placeholder, data }) {
+function SearchBar({ placeholder }) {
     const [filterData, setFilterData] = useState([]);
   
     const handleFilter = (event) => {
@@ -37,7 +38,7 @@ function SearchBar({ placeholder, data }) {
       </div>
       {filterData.length !== 0 && (
         <div className="DataResult">
-          {filterData.slice(0, 20).map((items, key) => {
+          {filterData.slice(0,25).map((items, key) => {
             return (
               <NavLink
                 className="dataItem"

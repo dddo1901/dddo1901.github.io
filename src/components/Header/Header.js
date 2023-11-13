@@ -10,10 +10,11 @@ function Header({ CartCount }) {
     <Container fluid="md">
       <div className="header">
         <div className="header-content">
-          <div className="header-left-logo">
-            <img className="header-img-logo" src={Logo} alt="logo" />
-          </div>
-
+          <Link to={'/'}>
+            <div className="header-left-logo">
+              <img className="header-img-logo" src={Logo} alt="logo" />
+            </div>
+          </Link>
           <div className="header-center-search">
             <SearchBar />
           </div>

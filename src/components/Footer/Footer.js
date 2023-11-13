@@ -42,19 +42,19 @@ function Footer() {
           <div className="footer-social-icon">
             <Link
               className="link-footer"
-              to="https://www.facebook.com/"
+              to="https://www.facebook.com/huyduu.19/"
             >
               <i class="fa-brands fa-facebook"></i>
             </Link>
             <Link
               className="link-footer"
-              to="https://www.instagram.com/"
+              to="https://www.instagram.com/_uud.yuh19/"
             >
               <i class="fa-brands fa-instagram"></i>
             </Link>
             <Link
               className="link-footer"
-              to="https://www.youtube.com/"
+              to="https://www.youtube.com/@HuyDuu"
             >
               <i class="fa-brands fa-youtube"></i>
             </Link>
