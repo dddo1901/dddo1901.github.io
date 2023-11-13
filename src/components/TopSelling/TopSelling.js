@@ -9,11 +9,26 @@ import { Link } from 'react-router-dom';
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-
-function TopSelling() {
+import { toast } from "react-toastify";
+import { useParams } from 'react-router-dom';
+function TopSelling({Add}) {
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
+  const notify = () =>
+  toast.success("Product successfully added", {
+    position: "top-right",
+    autoClose: 5000,
+    hideProgressBar: false,
+    closeOnClick: true,
+    pauseOnHover: true,
+    draggable: true,
+    progress: undefined,
+    theme: "light",
+  });
+  const { id } = useParams();
+  let item = Products.filter((x) => x.ID == id);
+  item = item[0];
   return (
     <Container fluid="md" data-aos="fade-up">
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
@@ -55,11 +70,13 @@ function TopSelling() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                <Link to={`/detail/${items.id}`}>
-                  <Button className="add-products">
-                   DETAIL
-                  </Button>
-                </Link>
+                <Button
+                  className="add-products"
+                  onClick={() => notify(Add(items, 1))}
+                >
+                  ADD TO CART
+                </Button>
+              
               </Card.Body>
             </Card>
           </Col>

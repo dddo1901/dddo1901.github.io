@@ -1,10 +1,8 @@
 import React from 'react';
-import NewArrivals from '../NewArrivals/NewArrivals';
-import TopSelling from '../TopSelling/TopSelling';
 import Slideshow from '../Slideshow/Slideshow';
 import { motion } from 'framer-motion';
-
-function Homepage() {
+import Maincontent from '../Maincontent/Maincontent'
+function Homepage({Add}) {
   return (
     <motion.div
     className="homepage"
@@ -13,8 +11,7 @@ function Homepage() {
     exit={{ opacity: 0 }}
   >
       <Slideshow/>
-      <NewArrivals/>
-      <TopSelling/>
+      <Maincontent Add={Add} />
     /</motion.div>
   )
 }

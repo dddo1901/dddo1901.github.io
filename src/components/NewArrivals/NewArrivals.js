@@ -10,12 +10,28 @@ import "react-toastify/dist/ReactToastify.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import { useParams } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
-
-function NewArrivals() {
+function NewArrivals({Add}) {
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
+  const notify = () =>
+  toast.success("Product successfully added", {
+    position: "top-right",
+    autoClose: 5000,
+    hideProgressBar: false,
+    closeOnClick: true,
+    pauseOnHover: true,
+    draggable: true,
+    progress: undefined,
+    theme: "light",
+  });
+  const { id } = useParams();
+  let detail = Products.filter((x) => x.ID == id);
+  detail = detail[0];
   return (
     <Container fluid="md">
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
@@ -56,15 +72,28 @@ function NewArrivals() {
                     <i class="fa-sharp fa-solid fa-star"></i>
                     <i class="fa-solid fa-star-half-stroke"></i>
                   </Card.Text>
-                  <Link to={`/detail/${items.id}`}>
-                  <Button className="add-products">
-                    DETAIL
-                  </Button>
-                  </Link>
+                  <Button
+                  className="add-products"
+                  onClick={() => notify(Add(detail, 1))}
+                >
+                  ADD TO CART
+                </Button>
               </Card.Body>
             </Card>
           </Col>
         ))}
+           <ToastContainer
+          position="top-right"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
       </Row>
     </Container>
   )

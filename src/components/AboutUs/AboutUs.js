@@ -37,12 +37,12 @@ function AboutUs() {
             for our suppliers and employees. We are proud to be a socially responsible and ethical business, and we hope to inspire others to do the same. 
             </p>
             <div className="aboutus-img-company" data-aos="zoom-in">
-              <img className="img-company" src={Company} alt="company" />
+              <img className="img-company" src="https://media1.tenor.com/images/e1ae7aea13cc1f830ac75f5f9f10dd05/tenor.gif?itemid=11805584" alt="company" />
             </div>
           </div>
           <div className="aboutus-fouder" data-aos="fade-up">
             <div className="aboutus-img-ceo" data-aos="fade-right">
-              <img className="img-ceo" src={CEO} alt="ceo" />
+              <img className="img-ceo" src="https://media1.tenor.com/images/21e789fe02beae4e0efea6240530eace/tenor.gif?itemid=12376995" alt="ceo" />
             </div>
             <p className="aboutus-ceo-infor">
               Founder GraciousGrament was founded by Mr. John Smith, a visionary
@@ -68,12 +68,12 @@ function AboutUs() {
               high-quality cloths that are built to last.
             </p>
             <div className="aboutus-img-product" data-aos="fade-left">
-              <img className="img-product" src={Product} alt="product" />
+              <img className="img-product" src="https://media.tenor.com/images/c7992c0af505207ac7e7c0ff0598a8e6/tenor.gif" alt="product" />
             </div>
           </div>
           <div className="aboutus-vision" data-aos="fade-up">
             <div className="aboutus-img-vision" data-aos="fade-right">
-              <img className="img-vision" src={Vision} alt="vision" />
+              <img className="img-vision" src="https://th.bing.com/th/id/R.ba9e547625ef6e9058585b008d94d82d?rik=nnN1wIvh4SOMbQ&pid=ImgRaw&r=0" alt="vision" />
             </div>
             <p className="aboutus-vision-infor">
               Vision of the Company Our vision at  is to become the go-to
@@ -99,7 +99,7 @@ function AboutUs() {
                 Customer Service: Our dedicated customer service team is
                 available to assist you with any inquiries or concerns you may
                 have. You can reach them by phone or email, and they will be
-                more than happy to help. We hope this information about Gracious Grament
+                more than happy to help. We hope this information about FANoFAN
                 fulfills your request. Feel free to let us know if there's
                 anything else we can assist you with.
               </li>

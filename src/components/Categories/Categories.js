@@ -9,15 +9,27 @@ import MainPagination from "../Pagination/Pagination";
 import { useEffect, useState } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import './Category.scss';
+import "./Category.scss";
+import { ToastContainer, toast } from "react-toastify";
 
-function Categories() {
+function Categories({Add}) {
   useEffect(() => {
     AOS.init({ duration: 1700 });
   }, []);
+  const notify = () =>
+    toast.success("Product successfully added", {
+      position: "top-right",
+      autoClose: 5000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "light",
+    });
 
   const { id } = useParams();
-  let items = Products.filter((items) => items.Category.id == id);
+  let items = Products.filter((item) => item.Category.id == id);
   let Title = items.slice(0, 1);
   console.log(items);
 
@@ -29,15 +41,14 @@ function Categories() {
   const cut = Page * ProPerPage;
   const PageCount = Math.ceil(items.length / ProPerPage);
   const PageData = items.slice(cut, cut + ProPerPage);
-  
   return (
-    <Container data-aos="fade-left"> 
-      <Row data-aos="fade-left">
-          {Title.map((item, index) => (
-            <div className="categories-title" key={index}>
-              {item.Category.name}
-            </div>
-          ))}
+    <Container data-aos="fade-left">
+      <Row>
+        {Title.map((item, index) => (
+          <div className="categories-title" key={index}>
+            {item.Category.name}
+          </div>
+        ))}
       </Row>
       <Row>
         {PageData.map((items, index) => (
@@ -70,15 +81,30 @@ function Categories() {
                   <i class="fa-sharp fa-solid fa-star"></i>
                   <i class="fa-solid fa-star-half-stroke"></i>
                 </Card.Text>
-                <Link to={`/detail/${items.id}`}>
-                  <Button className="add-products">
-                   DETAIL
-                  </Button>
-                </Link>
+                <Button
+                  className="add-products"
+                  onClick={() => {
+                    notify(Add(items, 1));
+                  }}
+                >
+                  ADD TO CART
+                </Button>
               </Card.Body>
             </Card>
           </Col>
         ))}
+        <ToastContainer
+          position="top-right"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
       </Row>
       <Row>
         <MainPagination PageCount={PageCount} HandlePage={HandlePage} />

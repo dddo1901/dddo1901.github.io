@@ -3,7 +3,7 @@ import MainMenu from './components/MainMenu/MainMenu';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import { useState } from 'react';
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, useLocation} from 'react-router-dom';
 import Homepage from './components/Homepage/Homepage';
 import Categories from './components/Categories/Categories';
 import Brands from './components/Brands/Brands';
@@ -16,39 +16,68 @@ import ProductsComparison from './components/ProductsComparison/ProductsComparis
 import "bootstrap";
 import "react-bootstrap";
 import './App.scss';
-import 'semantic-ui-css/semantic.min.css'
-import products from './components/Data.json'
+import 'semantic-ui-css/semantic.min.css';
+import products from './components/Data.json';
+import Cart from './components/Cart/Cart';
+import CartContext from './components/Context/CartContext';
 
 function App() {
+  const location = useLocation();
+  
   const [cart, setCart] = useState([]);
-  const HandleCart = (Data) => {
+  const HandleCart = (Data,quantity ) => {
     setCart([
       ...cart,
       {
-        Data
+        Data,
+        quantity 
       }
     ]);
   };
   
+  const HandleQuantity = (icon, id) => {
+    const updateCart = [...cart];
+    const ProIndex = updateCart.findIndex((x) => x.Data.ID === id);
+    if (icon === "Minus") {
+      if (updateCart[ProIndex].quantity >= 1) {
+        updateCart[ProIndex].quantity -= 1;
+        setCart(updateCart);
+      } else {
+        updateCart[ProIndex].quantity = 0;
+        setCart(updateCart);
+      }
+    } else if (icon === "Plus") {
+      updateCart[ProIndex].quantity += 1;
+      setCart(updateCart);
+    }
+  };
   return (
     <div>
       <div>
       <Header CartCount={cart.length} />
       </div>
       <MainMenu />
-      <Routes>
-        <Route path='/' element={<Homepage/>} />
-        <Route path='/categories/:id' element={<Categories/>} Add={HandleCart} />
-        <Route path='/brands/:id' element={<Brands/>} />
-        <Route path='/detail/:id' element={<ProductDetailPage/>} />
-        <Route path='/categories/:id' element={<Categories />}  />
-        <Route path='/brands/:id' element={<Brands  />} />
-        <Route path='/detail/:id' element={<ProductDetailPage/>}  />
+      <Routes location={location} key={location.pathname}>
+        <Route path='/' element={<Homepage Add={HandleCart}/>} />
+        <Route path='/brands/:id' element={<Brands Add={HandleCart}/>} />
+        <Route path='/detail/:id' element={<ProductDetailPage Add={HandleCart}/>} />
+        <Route path='/categories/:id' element={<Categories Add={HandleCart} /> }  />
         <Route path='/compare' element={<ProductsComparison products={products}/>}/>
         <Route path='/contact' element={<ContactUs/>} />
         <Route path='/about_us' element={<AboutUs/>} />
         <Route path='/login' element={<Login/>} />
       </Routes>
+      <CartContext.Provider
+       value={{
+        cart,
+        HandleCart,
+        HandleQuantity,
+       }}
+      >
+      <Routes>
+      <Route path='/cart' element={<Cart/>} />
+      </Routes>
+      </CartContext.Provider>
       <Footer />
     </div>
   );
