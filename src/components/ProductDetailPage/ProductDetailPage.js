@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom'
 import Products from '../Data.json'
 import SliderProducts from '../SliderProducts/SliderProducts'
 
-function ProductDetailPage({handleCarts}) {
+function ProductDetailPage() {
   const data = Products;
   const keypara = useParams();
   const id = keypara.id;
@@ -29,15 +29,7 @@ function ProductDetailPage({handleCarts}) {
       setNumberProduct(numberProduct - 1)
     }
   }
-  let handleAddCart = () =>{
-
-    if(numberProduct === 0){
-      return(
-        alert("Please add quantity of Products")
-      ) 
-    }else (handleCarts({id,name,brand,numberProduct,imgPreview,price}))
-
-  }
+  
   return (
     <div className='product-detail-page'>
       <div className="detail-container">
@@ -64,11 +56,6 @@ function ProductDetailPage({handleCarts}) {
           <button onClick={()=> handleSub()}><h4>-</h4></button>
           <h4>{numberProduct}</h4>
           <button onClick={()=> handleAdd()}><h4>+</h4></button>
-        </div>
-        <div className='content-bar-Add'>
-          <button onClick={()=> handleAddCart()}>
-          <i className="fa-solid fa-cart-plus iconAdd"></i>
-          </button>
         </div>
         <Link to={item[0].File} target="_blank" download>Download Information Product &emsp;
             <i className="fa-solid fa-download"></i>
