@@ -107,7 +107,7 @@ function Login({ Validation }) {
             />
 
             <div>
-              <input type="checkbox" checked="checked" /> Remember me
+              <input type="checkbox" /> Remember me
             </div>
           </div>
 
