@@ -3,11 +3,8 @@ import data from "../Data.json";
 import "./Cart.scss";
 import { useContext, useEffect, useState } from "react";
 import { Button } from "react-bootstrap";
-
 import Quantity from "./Quantity";
 import CartContext from "../Context/CartContext";
-
-
 import Modal from "react-bootstrap/Modal";
 
 function Cart() {
@@ -25,7 +22,7 @@ function Cart() {
   }, [Data]);
 
   const HandleDelete = (id) => {
-    const NewCart = Data.filter((items) => items.Data.ID !== id);
+    const NewCart = Data.filter((items) => items.Data.id !== id);
     setData(NewCart);
   };
   const [show, setShow] = useState(false);
@@ -56,7 +53,7 @@ function Cart() {
                   setQuantity={setProQuantity}
                   MainCart={true}
                   HandleQuantity={HandleQuantity}
-                  Id={item.Data.ID}
+                  Id={item.Data.id}
                 />
               </td>
               <td key={index} className="text-center">
@@ -67,7 +64,7 @@ function Cart() {
                   variant="danger"
                   className="ms-2 mt-2"
                   onClick={() => {
-                    HandleDelete(item.Data.ID);
+                    HandleDelete(item.Data.id);
                   }}
                 >
                   <i class="fa-solid fa-trash-can"></i>
