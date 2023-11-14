@@ -1,5 +1,4 @@
 import { Col, Container, Row } from "react-bootstrap";
-import data from "../Data.json";
 import "./Cart.scss";
 import { useContext, useEffect, useState } from "react";
 import { Button } from "react-bootstrap";
