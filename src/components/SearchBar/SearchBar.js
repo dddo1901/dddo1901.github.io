@@ -47,7 +47,7 @@ function SearchBar({ placeholder }) {
               >
                
                 <div className="search-bar-results">
-                  <img className='search-bar-img' src={items.img1} alt='' ></img>
+                  <img className='search-bar-img' src={items.img1} alt='img' ></img>
                   <p className="dataItem-text">{items.name}</p>
                   <hr />
                 </div>

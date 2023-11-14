@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 import "./Brand.scss";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import logo from './R.gif';
 import { ToastContainer, toast } from "react-toastify";
 function Brands({Add}) {
   useEffect(() => {

@@ -1,8 +1,9 @@
 import "./Slideshow.scss";
-import slide1 from "./imageSlideShow/BANNER1.jpg";
+import slide1 from "./imageSlideShow/10048b50700333.58d779ea99e37.gif";
 import slide2 from "./imageSlideShow/BANNER2.jpg";
 import slide3 from "./imageSlideShow/BANNER3.jpg";
 import Carousel from "react-bootstrap/Carousel";
+
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";

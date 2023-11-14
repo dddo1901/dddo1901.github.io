@@ -11,6 +11,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import { toast } from "react-toastify";
 import { useParams } from 'react-router-dom';
+import gif from './giphy.gif';
 function TopSelling({Add}) {
   useEffect(() => {
     AOS.init({ duration: 1700 });
@@ -32,7 +33,9 @@ function TopSelling({Add}) {
   return (
     <Container fluid="md" data-aos="fade-up">
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
-        <h1 className="topselling-title">Top Selling</h1>
+        <h1 className="topselling-title">
+        <img className='gif' src={gif} alt='gif'/>
+        </h1>
       </Row>
       <Row>
         {Products.filter((items) => {
