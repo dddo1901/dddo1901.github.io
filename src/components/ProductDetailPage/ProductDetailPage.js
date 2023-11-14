@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import Products from "../Data.json";
 import SliderProducts from "../SliderProducts/SliderProducts";
 import { Button } from "react-bootstrap";
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 
 function ProductDetailPage({ Add }) {
   const data = Products;
@@ -80,11 +80,9 @@ function ProductDetailPage({ Add }) {
           </div>
           <div className="content-bar-Add">
             <Button
-              className="buttonAdd text-center"
+              className="buttonAdd text-center fa-solid fa-cart-plus"
               onClick={() => notify(Add(item[0], 1))}
-
             >
-              ADD TO CART
             </Button>
           </div>
           <Link to={item[0].File} target="_blank" download>
