@@ -112,9 +112,6 @@ function Login({ Validation }) {
           </div>
 
           <div className="content-login-bottom">
-            <button type="button" className="cancelbtn ">
-              Cancel
-            </button>
             <span className="pass">Forgot Password?</span>
           </div>
         </form>
