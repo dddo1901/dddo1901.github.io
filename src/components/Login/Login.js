@@ -107,14 +107,11 @@ function Login({ Validation }) {
             />
 
             <div>
-              <input type="checkbox" checked="checked" /> Remember me
+              <input type="checkbox" /> Remember me
             </div>
           </div>
 
           <div className="content-login-bottom">
-            <button type="button" className="cancelbtn ">
-              Cancel
-            </button>
             <span className="pass">Forgot Password?</span>
           </div>
         </form>
