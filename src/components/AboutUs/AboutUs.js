@@ -42,7 +42,7 @@ function AboutUs() {
           </div>
           <div className="aboutus-fouder" data-aos="fade-up">
             <div className="aboutus-img-ceo" data-aos="fade-right">
-              <img className="img-ceo" src="https://media1.tenor.com/images/21e789fe02beae4e0efea6240530eace/tenor.gif?itemid=12376995" alt="ceo" />
+              <img className="img-ceo" src="https://media.giphy.com/media/ftWJ4wdFTTKa4/giphy.gif" alt="ceo" />
             </div>
             <p className="aboutus-ceo-infor">
               Founder GraciousGrament was founded by Mr. John Smith, a visionary

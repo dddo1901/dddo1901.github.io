@@ -30,8 +30,9 @@ function NewArrivals({ Add }) {
       theme: "light",
     });
   const { id } = useParams();
-  let detail = Products.filter((x) => x.ID == id);
-  detail = detail[0];
+  let item = Products.filter((x) => x.ID == id);
+  item=item[0];
+  console.log(item);
   return (
     <Container fluid="md">
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
@@ -79,7 +80,7 @@ function NewArrivals({ Add }) {
                 </Card.Text>
                 <Button
                   className="add-products"
-                  onClick={() => notify(Add(detail, 1))}
+                  onClick={() => notify(Add(items, 1))}
                 >
                   ADD TO CART
                 </Button>

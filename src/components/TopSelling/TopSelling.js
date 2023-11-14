@@ -30,6 +30,7 @@ function TopSelling({Add}) {
   const { id } = useParams();
   let item = Products.filter((x) => x.ID == id);
   item = item[0];
+  console.log(item);
   return (
     <Container fluid="md" data-aos="fade-up">
       <Row className="text-center mt-5 mb-3 " data-aos="fade-right">
